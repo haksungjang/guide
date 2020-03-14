@@ -1,1 +1,2 @@
-# guide
+# Initial page
+
