@@ -10,6 +10,7 @@
 
 * [오픈소스 기여](contribute/undefined.md)
 * [기여하는 이유](contribute/expect.md)
+* [기여 형태](contribute/type.md)
 
 ## 오픈소스 공개하기 <a id="undefined-2"></a>
 
