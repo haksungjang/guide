@@ -8,7 +8,8 @@
 
 ## 오픈소스 기여하기 <a id="contribute"></a>
 
-* [기여해야 하는 이유](contribute/expect.md)
+* [오픈소스 기여](contribute/undefined.md)
+* [기여하는 이유](contribute/expect.md)
 
 ## 오픈소스 공개하기 <a id="undefined-2"></a>
 
