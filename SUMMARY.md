@@ -8,13 +8,14 @@
 
 ## 오픈소스 기여하기 <a id="contribute"></a>
 
-* [기여하기](contribute/main.md)
-* [기여해야하는 이유](contribute/expect.md)
-* [기여 활동 종류](contribute/type.md)
+* [기여하기](contribute/main/README.md)
+  * [기여해야하는 이유](contribute/main/expect.md)
+  * [거버넌스 모델](contribute/main/role.md)
+  * [좋은 기여자](contribute/main/good.md)
+  * [프로젝트 체크](contribute/main/validate.md)
+  * [기여 활동 종류](contribute/main/type.md)
+  * [커뮤니케이션 방법](contribute/main/undefined.md)
 * [방법과 절차](contribute/howto.md)
-* [거버넌스 모델](contribute/role.md)
-* [좋은 기여자](contribute/good.md)
-* [프로젝트 체크](contribute/validate.md)
 
 ## 오픈소스 공개 <a id="open"></a>
 
