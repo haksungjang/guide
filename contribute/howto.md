@@ -16,7 +16,14 @@ description: 기여 방법과 절차에 대해 설명합니다.
 
 ## 1. 문서 읽기
 
-그렇기 때문에 기여하고자 하는 프로젝트의 프로세스를 제대로 이해하기 위해서는 우선 프로젝트에서 제공하는 문서를 봐야 합니. 대개의 프로젝트는 CONTRIBUTING 또는 README 파일로 이러한 문서를 제공합니다.
+그렇기 때문에 기여하고자 하는 프로젝트의 프로세스를 제대로 이해하기 위해서는 우선 프로젝트에서 제공하는 문서를 봐야 합니다. 대개의 프로젝트는 CONTRIBUTING 또는 README 파일로 이러한 문서를 제공합니다.
+
+{% hint style="info" %}
+예를 들어, Kubernates는 기여자를 위한 가이드를 자세히 제공합니다. 
+
+* [contributing.md](https://github.com/kubernetes/community/blob/master/contributors/guide/contributing.md) : Kubernates에 기여하기 위한 가이드
+* [github\_workflow.md](https://github.com/kubernetes/community/blob/master/contributors/guide/github-workflow.md) : GitHub에서 기여하기 위한 절차 설
+{% endhint %}
 
 ## 2. 기여 제출하기
 
