@@ -16,17 +16,23 @@ description: contibute
 
 {% page-ref page="expect.md" %}
 
-## 오픈소스 프로젝트 R&R
+## 오픈소스 프로젝트 관리 구조
 
 오픈소스 프로젝트를 구성하는 인원의 역할과 책임은 어떻게 되나요?
 
-
+{% page-ref page="undefined-2.md" %}
 
 ## 오픈소스 기여 형태
 
 오픈소스에 기여하는 유형에는 어떤 것들이 있나요?
 
 {% page-ref page="type.md" %}
+
+## 기여 방법
+
+{% page-ref page="undefined-1.md" %}
+
+## 좋은 기여자가 되려면
 
 
 

@@ -12,6 +12,8 @@
 * [기여하는 이유](contribute/expect.md)
 * [관리 구조](contribute/undefined-2.md)
 * [기여 형태](contribute/type.md)
+* [기여 방법](contribute/undefined-1.md)
+* [좋은 기여자](contribute/good.md)
 
 ## 오픈소스 공개하기 <a id="undefined-2"></a>
 
