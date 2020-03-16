@@ -20,7 +20,7 @@ description: contibute
 
 오픈소스 프로젝트를 구성하는 인원의 역할과 책임은 어떻게 되나요?
 
-{% page-ref page="undefined-2.md" %}
+{% page-ref page="role.md" %}
 
 ## 오픈소스 기여 형태
 
