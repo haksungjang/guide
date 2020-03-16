@@ -28,10 +28,6 @@ description: contibute
 
 {% page-ref page="type.md" %}
 
-## 기여 방법
-
-{% page-ref page="howto.md" %}
-
 ### 좋은 기여자가 되려면
 
 {% page-ref page="good.md" %}
