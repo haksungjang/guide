@@ -16,11 +16,11 @@
 * [좋은 기여자](contribute/good.md)
 * [프로젝트 체크](contribute/validate.md)
 
-## 오픈소스 공개하기 <a id="open"></a>
+## 오픈소스 공개 <a id="open"></a>
 
-* [오픈소스 공개](open/main.md)
-* [준비 사항](open/prepare.md)
-* [방법과 절차](open/process/README.md)
+* [시작하기](open/process/README.md)
+  * [공개하는 이유](open/process/undefined-5.md)
+  * [준비 사항](open/process/prepare.md)
   * [라이선스 선택](open/process/undefined.md)
   * [저작권 및 라이선스 표기](open/process/undefined-3.md)
   * [DCO](open/process/dco.md)
@@ -31,10 +31,7 @@
   * [거버넌스](open/process/undefined-4.md)
   * [리더쉽 역할](open/process/undefined-1.md)
   * [브랜딩](open/process/undefined-2.md)
-* [Checklist](open/checklist.md)
+* [커뮤니티 활성화](open/main.md)
 * [측정하기](open/undefined.md)
-
-## 커뮤니티 <a id="community"></a>
-
-* [커뮤니티 활성화](community/main.md)
+* [Checklist](open/checklist.md)
 
