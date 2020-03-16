@@ -22,7 +22,7 @@ description: 기여 방법과 절차에 대해 설명합니다.
 예를 들어, Kubernates는 기여자를 위한 가이드를 자세히 제공합니다. 
 
 * [contributing.md](https://github.com/kubernetes/community/blob/master/contributors/guide/contributing.md) : Kubernates에 기여하기 위한 가이드
-* [github\_workflow.md](https://github.com/kubernetes/community/blob/master/contributors/guide/github-workflow.md) : GitHub에서 기여하기 위한 절차 설
+* [github\_workflow.md](https://github.com/kubernetes/community/blob/master/contributors/guide/github-workflow.md) : GitHub에서 기여하기 위한 절차 설명
 {% endhint %}
 
 ## 2. 기여 제출하기
