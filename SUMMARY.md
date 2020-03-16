@@ -17,7 +17,7 @@
   * [커뮤니케이션 방법](contribute/main/undefined.md)
   * [Pull Request](contribute/main/pull-request.md)
 
-## 오픈소스 공개 <a id="open"></a>
+## 오픈소스 공개하기 <a id="open"></a>
 
 * [공개하기](open/process/README.md)
   * [공개하는 이유](open/process/undefined-5.md)
@@ -31,8 +31,8 @@
   * [Maintainer 역할](open/process/maintainer.md)
   * [거버넌스](open/process/undefined-4.md)
   * [리더쉽 역할](open/process/undefined-1.md)
-* [브랜딩](open/undefined-2.md)
-* [커뮤니티 활성화](open/main.md)
-* [측정하기](open/undefined.md)
+* [브랜딩](open/brand.md)
+* [커뮤니티](open/community.md)
+* [측정](open/measure.md)
 * [Checklist](open/checklist.md)
 
