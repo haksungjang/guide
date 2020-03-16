@@ -19,7 +19,7 @@
 
 ## 오픈소스 공개 <a id="open"></a>
 
-* [시작하기](open/process/README.md)
+* [공개하기](open/process/README.md)
   * [공개하는 이유](open/process/undefined-5.md)
   * [준비 사항](open/process/prepare.md)
   * [라이선스 선택](open/process/undefined.md)

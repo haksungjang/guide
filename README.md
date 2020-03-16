@@ -28,5 +28,3 @@ description: SK텔레콤 오픈소스 가이드
 이 문서는 github를 통해 공개하고 있으며, 누구나 수정 및 개선 할 수 있습니다. : [https://github.com/opensource-skt/guide](https://github.com/opensource-skt/guide)
 {% endhint %}
 
-
-
