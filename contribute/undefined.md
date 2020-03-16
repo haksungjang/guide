@@ -30,7 +30,7 @@ description: contibute
 
 ## 기여 방법
 
-{% page-ref page="undefined-1.md" %}
+{% page-ref page="howto.md" %}
 
 ## 좋은 기여자가 되려면
 
