@@ -15,6 +15,7 @@
   * [프로젝트 체크](contribute/main/validate.md)
   * [기여 활동 종류](contribute/main/type.md)
   * [커뮤니케이션 방법](contribute/main/undefined.md)
+  * [Pull Request](contribute/main/pull-request.md)
 * [방법과 절차](contribute/howto.md)
 
 ## 오픈소스 공개 <a id="open"></a>

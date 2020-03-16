@@ -94,7 +94,11 @@ Issue에 대한 커뮤니케이션 Tip
 3. 당신이 Issue를 오픈했지만, 나중에 스스로 답을 알아낸 경우, 해당 Issue에 대한 답을 다른 사람도 알 수 있도록 comment를 작성하고 이슈를 close 하세요. 이렇게 문서화하는 것조차도 프로젝트에 기여하는 것입니다. 
 {% endhint %}
 
-### Pull Request 오픈하기
+### Pull Request
+
+Pull Request를 통해 기여를 제출하는 방법은 다음 페이지를 참고합니다. 
+
+
 
 일반적으로 다음 상황에서 Pull Request를 오픈합니다. 
 
