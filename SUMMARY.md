@@ -8,7 +8,7 @@
 
 ## 오픈소스 기여하기 <a id="contribute"></a>
 
-* [오픈소스 기여](contribute/main.md)
+* [기여하기](contribute/main.md)
 * [기여해야하는 이유](contribute/expect.md)
 * [기여 활동 종류](contribute/type.md)
 * [방법과 절차](contribute/howto.md)
