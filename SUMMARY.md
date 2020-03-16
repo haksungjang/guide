@@ -31,7 +31,7 @@
   * [Maintainer 역할](open/process/maintainer.md)
   * [거버넌스](open/process/undefined-4.md)
   * [리더쉽 역할](open/process/undefined-1.md)
-  * [브랜딩](open/process/undefined-2.md)
+* [브랜딩](open/undefined-2.md)
 * [커뮤니티 활성화](open/main.md)
 * [측정하기](open/undefined.md)
 * [Checklist](open/checklist.md)
