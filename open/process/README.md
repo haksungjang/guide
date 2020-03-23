@@ -18,7 +18,7 @@ description: 오픈소스 프로젝트 시작을 위한 방법과 절차를 설�
 
 ## 공개 하기
 
-이제 프로젝트를 시작하기 위한 법적 검토 등의 공식적인 단계를 수행해야 합니다. 
+이제 프로젝트를 시작하기 위한 법적 검토 등의 공식적인 단계를 수행합니다.
 
 ### 법률 검토
 
@@ -53,7 +53,9 @@ description: 오픈소스 프로젝트 시작을 위한 방법과 절차를 설�
 
 #### \(4\) Contributor Agreement
 
-코드의 법적 문제를 방지하기 위해 각 Commit마다 DCO\(Developer Certificate of Origin\)를 요구하는 것도 좋은 방법입니다. DCO에 대한 세부 내용은 다음 페이지를 참고하세요. 
+일반적인 오픈소스 라이선스는 기여자로부터의 라이선싱도 명시하고 있기 때문에 추가적인 Contributor Agreement가 필요하지 않습니다. 
+
+코드의 법적 문제를 방지하기 위해 기여자에게 CLA \(Contributor License Agreement\)나 DCO\(Developer Certificate of Origin\)를 요구하는 것도 고려할 수 있습니다. CLA DCO에 대한 세부 내용은 다음 페이지를 참고하세요. 
 
 {% page-ref page="dco.md" %}
 
