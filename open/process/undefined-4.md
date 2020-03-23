@@ -1,4 +1,8 @@
 # 거버넌스
 
-[https://opensource.guide/leadership-and-governance/](https://opensource.guide/leadership-and-governance/)
+{% hint style="info" %}
+Reference : [https://opensource.guide/leadership-and-governance/](https://opensource.guide/leadership-and-governance/)
+{% endhint %}
+
+
 

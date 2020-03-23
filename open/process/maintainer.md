@@ -1,6 +1,8 @@
 # Maintainer 역할
 
-\(작성 중\)
+{% hint style="info" %}
+Reference : [https://opensource.guide/best-practices/](https://opensource.guide/best-practices/)
+{% endhint %}
 
 
 
