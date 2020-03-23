@@ -4,7 +4,7 @@
 Reference : [https://opensource.guide/starting-a-project/\#launching-your-own-open-source-project](https://opensource.guide/starting-a-project/#launching-your-own-open-source-project)
 {% endhint %}
 
-README 파일은 새로운 사람들에게 프로젝트에 대해 설명하는 가장 중요한 문서입니다. REAMDE 파일은 프로젝트의 Root 디렉토리에 위치합니다. 
+README 파일은 새로운 사람들에게 프로젝트에 대해 설명하는 가장 중요한 문서입니다. 
 
 ## 포함 사항
 
@@ -30,4 +30,8 @@ REAME 파일을 잘 작성하기 위해 Template을 참고할 수 있습니다.
 README를 만드는 가이드도 제공되고 있으니 참고하세요. 
 
 * [Make a README](https://www.makeareadme.com/)
+
+{% hint style="warning" %}
+REAMDE 파일은 프로젝트의 최상위 폴더에 위치시켜서 프로젝트의 모든 사용자가 쉽게 볼 수 있게 합니다. 
+{% endhint %}
 
