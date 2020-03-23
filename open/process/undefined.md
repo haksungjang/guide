@@ -1,4 +1,12 @@
-# 라이선스 선택
+---
+description: Releasing new open source projects
+---
 
-\(라이선스 선택 가이드 : [https://opensource.guide/starting-a-project/\#launching-your-own-open-source-project](https://opensource.guide/starting-a-project/#launching-your-own-open-source-project)\)
+# 새로운 오픈소스 공개
+
+{% hint style="warning" %}
+[https://opensource.google/docs/releasing/](https://opensource.google/docs/releasing/)
+{% endhint %}
+
+
 
