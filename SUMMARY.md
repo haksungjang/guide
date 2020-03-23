@@ -25,7 +25,7 @@
   * [준비 사항](open/process/prepare.md)
   * [라이선스 선택](open/process/choosealicense.md)
   * [저작권 및 라이선스 표기](open/process/undefined-3.md)
-  * [DCO](open/process/dco.md)
+  * [CLA와 DCO](open/process/dco.md)
   * [README](open/process/readme.md)
   * [CONTRIBUTING](open/process/contributing.md)
   * [Code of Conduct](open/process/code-of-conduct.md)
