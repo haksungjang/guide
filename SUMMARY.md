@@ -7,7 +7,7 @@
 * [오픈소스 사용하기](use/undefined/README.md)
   * [오픈소스란?](use/undefined/meaning.md)
 
-## 오픈소스 기여와 공개 <a id="contribute"></a>
+## 오픈소스 기여 <a id="contribute"></a>
 
 * [오픈소스 기여하기](contribute/main/README.md)
   * [기여해야하는 이유](contribute/main/expect.md)
