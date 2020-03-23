@@ -1,6 +1,15 @@
-# 공개해야하는 이유
+# 오픈소스 이유
 
-\(작성중\)
+{% hint style="warning" %}
+Reference
+
+* [https://todogroup.org/guides/starting/](https://todogroup.org/guides/starting/)
+* [https://opensource.google/docs/why/](https://opensource.google/docs/why/)
+{% endhint %}
+
+소프트웨어를 오픈소스로 공개하는데에는 여러 이유가 있습니다. 당신은 왜 오픈소스를 만드려고 하나요? 
+
+## 
 
 기업이 오픈소스 프로젝트를 시작해야 하는 이유는 많습니다.
 

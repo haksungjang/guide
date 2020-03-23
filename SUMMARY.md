@@ -2,26 +2,10 @@
 
 * [오픈소스 가이드 \(draft\)](README.md)
 
-## 오픈소스 사용 <a id="use"></a>
+## Creating <a id="open"></a>
 
-* [오픈소스 사용하기](use/undefined/README.md)
-  * [오픈소스란?](use/undefined/meaning.md)
-
-## 오픈소스 기여 <a id="contribute"></a>
-
-* [오픈소스 기여하기](contribute/main/README.md)
-  * [기여해야하는 이유](contribute/main/expect.md)
-  * [거버넌스](contribute/main/role.md)
-  * [커뮤니케이션 방법](contribute/main/undefined.md)
-  * [좋은 기여자](contribute/main/good.md)
-  * [기여 활동 종류](contribute/main/type.md)
-  * [프로젝트 체크](contribute/main/validate.md)
-  * [Pull Request](contribute/main/pull-request.md)
-
-## 오픈소스 공개 <a id="open"></a>
-
-* [오픈소스 공개하기](open/process/README.md)
-  * [공개해야하는 이유](open/process/undefined-5.md)
+* [오픈소스 만들기](open/process/README.md)
+  * [오픈소스 이유](open/process/undefined-5.md)
   * [준비 사항](open/process/prepare.md)
   * [라이선스 선택](open/process/choosealicense.md)
   * [CLA와 DCO](open/process/dco.md)
@@ -36,4 +20,20 @@
   * [Checklist](open/process/checklist.md)
 * [커뮤니티 활성화](open/community.md)
 * [오픈소스 측정](open/measure.md)
+
+## PATCHING <a id="contribute"></a>
+
+* [오픈소스 기여하기](contribute/main/README.md)
+  * [기여해야하는 이유](contribute/main/expect.md)
+  * [거버넌스](contribute/main/role.md)
+  * [커뮤니케이션 방법](contribute/main/undefined.md)
+  * [좋은 기여자](contribute/main/good.md)
+  * [기여 활동 종류](contribute/main/type.md)
+  * [프로젝트 체크](contribute/main/validate.md)
+  * [Pull Request](contribute/main/pull-request.md)
+
+## USING <a id="use"></a>
+
+* [오픈소스 사용하기](undefined/README.md)
+  * [오픈소스란?](undefined/meaning.md)
 
