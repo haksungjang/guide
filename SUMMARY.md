@@ -8,7 +8,7 @@
   * [공개해야 하는 이유](creating/creating/why.md)
   * [고려 사항](creating/creating/consider.md)
   * [오픈소스 공개](creating/creating/release/README.md)
-    * [공개 준비](creating/creating/release/prepare/README.md)
+    * [준비 사항](creating/creating/release/prepare/README.md)
       * [브랜딩](creating/creating/release/prepare/brand.md)
       * [README](creating/creating/release/prepare/readme.md)
       * [저작권 및 라이선스 표기](creating/creating/release/prepare/mark.md)
