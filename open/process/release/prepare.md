@@ -29,6 +29,18 @@ Repository 이름의 경우, 하이픈 \("-"\)으로 구분합니다.
 
 ## 프로젝트에 라이선스 부여하기
 
+SK텔레콤은 오픈소스로 공개 시 기본적으로 [Apache-2.0](https://spdx.org/licenses/Apache-2.0.html)를 적용합니다. Apache-2.0는 사용자에게 광범위한 자유를 제공하면서 명시적인 특허 허여 조항 등 법적인 관점에서도 가장 적절한 라이선스입니다. 
+
+만약, 다른 라이선스를 선택해야 할 상황이라면 오픈소스팀에 문의하시기 바랍니다. \(haksung : 문의 방법 추가 필요\)
+
+{% hint style="warning" %}
+오픈소스 공개 시 라이선스 선택에 대한 안내는 GitHub에서 제공하는 라이선스 선택 가이드를 참고할 수 있습니다. : [https://choosealicense.com](https://choosealicense.com)
+{% endhint %}
+
+
+
+
+
 
 
 
