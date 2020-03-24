@@ -29,7 +29,7 @@ description: Releasing new open source projects
 
 이에 대한 자세한 사항은 다음 페이자를 참고하세요.
 
-{% page-ref page="prepare.md" %}
+{% page-ref page="prepare/" %}
 
 {% hint style="warning" %}
 [https://github.com/google/new-project](https://github.com/google/new-project) 에서 오픈소스 공개를 위한 템플릿이 제공됩니다.    
