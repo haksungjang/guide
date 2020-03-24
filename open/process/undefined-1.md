@@ -1,4 +1,4 @@
-# 리더쉽 역할
+# 리더쉽과 거버넌스
 
 {% page-ref page="undefined-1.md" %}
 
