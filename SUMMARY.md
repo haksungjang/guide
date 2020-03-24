@@ -2,27 +2,27 @@
 
 * [오픈소스 가이드 \(draft\)](README.md)
 
-## Creating <a id="open"></a>
+## Creating
 
-* [오픈소스 공개하기](open/process/README.md)
-  * [오픈소스 이유](open/process/undefined-5.md)
-  * [오픈소스 공개](open/process/release/README.md)
-    * [공개 준비](open/process/release/prepare/README.md)
-      * [브랜딩](open/process/release/prepare/brand.md)
-      * [README](open/process/release/prepare/readme.md)
-      * [저작권 및 라이선스 표기](open/process/release/prepare/undefined-3.md)
-      * [CONTRIBUTING](open/process/release/prepare/contributing.md)
-      * [CLA와 DCO](open/process/release/prepare/dco.md)
-      * [Code of Conduct](open/process/release/prepare/code-of-conduct.md)
-    * [승인 절차](open/process/release/approval.md)
-    * [Releasing](open/process/release/releasing.md)
-    * [기여 받기](open/process/release/undefined.md)
-    * [FAQ](open/process/release/faq.md)
-  * [Maintainer 역할](open/process/maintainer.md)
-  * [리더쉽과 거버넌스](open/process/undefined-1.md)
-  * [Checklist](open/process/checklist.md)
-* [커뮤니티 활성화](open/community.md)
-* [오픈소스 측정](open/measure.md)
+* [오픈소스 공개하기](creating/creating/README.md)
+  * [오픈소스 이유](creating/creating/undefined-5.md)
+  * [오픈소스 공개](creating/creating/release/README.md)
+    * [공개 준비](creating/creating/release/prepare/README.md)
+      * [브랜딩](creating/creating/release/prepare/brand.md)
+      * [README](creating/creating/release/prepare/readme.md)
+      * [저작권 및 라이선스 표기](creating/creating/release/prepare/undefined-3.md)
+      * [CONTRIBUTING](creating/creating/release/prepare/contributing.md)
+      * [CLA와 DCO](creating/creating/release/prepare/dco.md)
+      * [Code of Conduct](creating/creating/release/prepare/code-of-conduct.md)
+    * [승인 절차](creating/creating/release/approval.md)
+    * [Releasing](creating/creating/release/releasing.md)
+    * [기여 받기](creating/creating/release/undefined.md)
+    * [FAQ](creating/creating/release/faq.md)
+  * [Maintainer 역할](creating/creating/maintainer.md)
+  * [리더쉽과 거버넌스](creating/creating/undefined-1.md)
+  * [Checklist](creating/creating/checklist.md)
+* [커뮤니티 활성화](creating/community.md)
+* [오픈소스 측정](creating/measure.md)
 
 ## PATCHING <a id="contribute"></a>
 
