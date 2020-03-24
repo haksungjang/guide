@@ -6,6 +6,7 @@
 
 * [오픈소스 공개하기](creating/creating/README.md)
   * [오픈소스 이유](creating/creating/why.md)
+  * [고려 사항](creating/creating/consider.md)
   * [오픈소스 공개](creating/creating/release/README.md)
     * [공개 준비](creating/creating/release/prepare/README.md)
       * [브랜딩](creating/creating/release/prepare/brand.md)
