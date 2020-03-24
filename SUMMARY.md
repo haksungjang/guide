@@ -4,10 +4,10 @@
 
 ## Creating <a id="open"></a>
 
-* [오픈소스 만들기](open/process/README.md)
+* [오픈소스 공개하기](open/process/README.md)
   * [오픈소스 이유](open/process/undefined-5.md)
   * [오픈소스 공개](open/process/release/README.md)
-    * [준비 사항](open/process/release/prepare/README.md)
+    * [공개 준비](open/process/release/prepare/README.md)
       * [README](open/process/release/prepare/readme.md)
       * [저작권 및 라이선스 표기](open/process/release/prepare/undefined-3.md)
       * [CONTRIBUTING](open/process/release/prepare/contributing.md)
