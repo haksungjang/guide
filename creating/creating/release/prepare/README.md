@@ -118,7 +118,7 @@ $ find <path-to-source-dir> -type f | egrep '\.(py|sh)' | while read f; do echo 
 
 소스 코드를 포함하는 모든 파일은 저작권 및 라이선스 표기를 포함해야 합니다. 이는 몇몇 파일만 복사해서 사용하려는 사용자들도 라이선스 의무를 준수하는데 도움이 됩니다. 자세한 내용은 다음 페이지를 참고하세요. 
 
-{% page-ref page="undefined-3.md" %}
+{% page-ref page="mark.md" %}
 
 ### 7\) CONTRIBUTING 파일을 포함하세요
 
@@ -132,13 +132,13 @@ $ find <path-to-source-dir> -type f | egrep '\.(py|sh)' | while read f; do echo 
 
 \(haksung : 어떤 CLA를 SK텔레콤 기본으로 할지에 대한 법무 검토 필요\)
 
-{% page-ref page="dco.md" %}
+{% page-ref page="cla.md" %}
 
 ### 9\) Code of Conduct 파일을 포함하세요 \(선택 사항\)
 
 \(haksung : SK텔레콤의 Code of Conduct 작성 필요\)
 
-{% page-ref page="code-of-conduct.md" %}
+{% page-ref page="conduct.md" %}
 
 ## 추가 사항
 

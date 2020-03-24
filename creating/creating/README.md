@@ -12,7 +12,7 @@ SK텔레콤이 공개하는 오픈소스 프로젝트에 법적, 윤리적, 기�
 
 소프트웨어를 오픈소스로 공개하는데에는 여러 이유가 있습니다. 당신은 왜 오픈소스를 만드려고 하나요? 
 
-{% page-ref page="undefined-5.md" %}
+{% page-ref page="why.md" %}
 
 ## 오픈소스 공개하기
 
@@ -55,13 +55,13 @@ SK텔레콤은 소프트웨어를 오픈소스로 공개하는걸 적극 권장�
 
 라이선스를 선택했으면, 공개할 코드 내에 코드의 각 파일에 저작권과 라이선스를 표기해야 합니다. 이를 위한 세부 내용은 다음 페이지를 참고하세요. 
 
-{% page-ref page="release/prepare/undefined-3.md" %}
+{% page-ref page="release/prepare/mark.md" %}
 
 #### \(4\) Contributor Agreement
 
 일반적인 오픈소스 라이선스는 기여자로부터의 라이선싱도 명시하고 있기 때문에 추가적인 Contributor Agreement가 필요하지 않습니다. 필요에 따라 코드의 법적 문제를 방지하기 위해 기여자에게 CLA \(Contributor License Agreement\)나 DCO\(Developer Certificate of Origin\)를 요구하는 것도 고려할 수 있습니다. CLA와 DCO에 대한 세부 내용은 다음 페이지를 참고하세요. 
 
-{% page-ref page="release/prepare/dco.md" %}
+{% page-ref page="release/prepare/cla.md" %}
 
 ### 기술 검토
 
@@ -105,7 +105,7 @@ SK텔레콤은 소프트웨어를 오픈소스로 공개하는걸 적극 권장�
 
 리더쉽에 대한 자세한 내용은 다음 페이지를 참고하세요. 
 
-{% page-ref page="undefined-1.md" %}
+{% page-ref page="governance.md" %}
 
 ### 인프라 구축
 
