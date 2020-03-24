@@ -4,8 +4,6 @@
 [https://todogroup.org/guides/starting/](https://todogroup.org/guides/starting/)
 {% endhint %}
 
-\(haksung : 이 페이지를 살릴지 없앨지 고민 필요\)
-
 오픈소스 프로젝트를 시작하기 전 고려해야 할 여러 사항이 있습니다. 
 
 ## 1. 비즈니스와 연계하세요.

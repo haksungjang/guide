@@ -1,4 +1,4 @@
-# 오픈소스 이유
+# 공개해야 하는 이유
 
 {% hint style="warning" %}
 * [https://todogroup.org/guides/starting/](https://todogroup.org/guides/starting/)
