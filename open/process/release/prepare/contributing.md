@@ -1,8 +1,6 @@
 # CONTRIBUTING
 
 {% hint style="warning" %}
-Reference
-
 * [https://opensource.guide/starting-a-project/\#launching-your-own-open-source-project](https://opensource.guide/starting-a-project/#launching-your-own-open-source-project)
 * [https://help.github.com/en/github/building-a-strong-community/setting-guidelines-for-repository-contributors\#examples-of-contribution-guidelines](https://help.github.com/en/github/building-a-strong-community/setting-guidelines-for-repository-contributors#examples-of-contribution-guidelines)
 {% endhint %}

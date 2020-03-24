@@ -63,7 +63,7 @@ SK텔레콤은 소프트웨어를 오픈소스로 공개하는걸 적극 권장�
 
 일반적인 오픈소스 라이선스는 기여자로부터의 라이선싱도 명시하고 있기 때문에 추가적인 Contributor Agreement가 필요하지 않습니다. 필요에 따라 코드의 법적 문제를 방지하기 위해 기여자에게 CLA \(Contributor License Agreement\)나 DCO\(Developer Certificate of Origin\)를 요구하는 것도 고려할 수 있습니다. CLA와 DCO에 대한 세부 내용은 다음 페이지를 참고하세요. 
 
-{% page-ref page="dco.md" %}
+{% page-ref page="release/prepare/dco.md" %}
 
 ### 기술 검토
 
