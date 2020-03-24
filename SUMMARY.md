@@ -6,8 +6,8 @@
 
 * [오픈소스 만들기](open/process/README.md)
   * [오픈소스 이유](open/process/undefined-5.md)
-  * [새로운 오픈소스 공개](open/process/undefined.md)
-  * [준비 사항](open/process/prepare.md)
+  * [새로운 오픈소스 공개](open/process/undefined/README.md)
+    * [준비 사항](open/process/undefined/prepare.md)
   * [라이선스 선택](open/process/choosealicense.md)
   * [CLA와 DCO](open/process/dco.md)
   * [저작권 및 라이선스 표기](open/process/undefined-3.md)
