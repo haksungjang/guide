@@ -2,7 +2,7 @@
 description: Releasing new open source projects
 ---
 
-# 새로운 오픈소스 공개
+# 오픈소스 공개
 
 {% hint style="warning" %}
 [https://opensource.google/docs/releasing/](https://opensource.google/docs/releasing/)
@@ -16,7 +16,7 @@ description: Releasing new open source projects
 
 ## Quick Overview
 
-새로운 오픈소스를 공개하는 개략적인 절차는 다음과 같습니다. 자세한 사항은 다음 페이지를 참고하세요. 
+새로운 오픈소스를 공개하는 개략적인 절차는 다음과 같습니다. 
 
 ### 1. 준비하기
 
@@ -26,6 +26,8 @@ description: Releasing new open source projects
 4. 오픈소스 라이선스를 선택하고, 소스 파일 헤더에 포함하세요. 
 5. CONTRIBUTING 파일을 포함하세요.
 6. SK텔레콤이 작성하지 않은 코드는 third\_party 디렉토리에 있도록 하세요. 
+
+이에 대한 자세한 사항은 다음 페이자를 참고하세요.
 
 {% page-ref page="prepare.md" %}
 
@@ -51,6 +53,21 @@ description: Releasing new open source projects
 {% hint style="warning" %}
 중요 : 다음 사항은 승인을 받은 후 진행하세요.
 {% endhint %}
+
+## Patching
+
+다음 경우에 해당한다면 기여하기 절차를 따릅니다. 
+
+1. \(기여의 규모나 복잡성에 관계 없이\) 기존 오픈소스 프로젝트에 기여하는 경우
+2. 100 라인 이하의 코드 조각을 공개하는 경우
+3. StckOverflow에 코드를 게시하는 경우
+4. 오픈소스 프로젝트의 관리자로 역할을 수행하는 경우
+
+{% page-ref page="../../../contribute/main/" %}
+
+## Need help?
+
+도움이 필요하세요? opensource@sk.com으로 연락주세요. \(haksung : 공식적인 창구 확인 필요. 이메일로 할지, TDE를 통할지?\)
 
 
 
