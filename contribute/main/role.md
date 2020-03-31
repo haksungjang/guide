@@ -1,8 +1,6 @@
 # 거버넌스
 
 {% hint style="warning" %}
-References
-
 * [https://todogroup.org/guides/participating/](https://todogroup.org/guides/participating/)
 * [https://opensource.guide/ko/leadership-and-governance/](https://opensource.guide/ko/leadership-and-governance/)
 {% endhint %}

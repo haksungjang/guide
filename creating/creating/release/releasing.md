@@ -1,4 +1,4 @@
-# 공개
+# 릴리즈
 
 {% hint style="warning" %}
 [https://opensource.google/docs/releasing/publishing/](https://opensource.google/docs/releasing/publishing/)
@@ -32,7 +32,7 @@
 
 단, Slack과 같은 타사 서비스에서는 회사의 기밀 정보를 논의해서는 안됩니다. 이러한 커뮤니케이션 채널은 공개 토론으로만 사용해야하며 회사 내부 조직의 논의 도구로는 사용할 수 없습니다. 
 
-## Repository 생성과 코드 공개
+## Repository 생성과 코드 릴리즈
 
 모든 준비와 검토 및 승인 단계를 마친 후에는 repository를 생성합니다. \(haksung : sk github repository를 사용할 수 있도록 추가 안내 필요\) 
 

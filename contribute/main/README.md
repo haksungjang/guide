@@ -4,7 +4,7 @@ description: contibute
 
 # 오픈소스 기여하기
 
-{% hint style="info" %}
+{% hint style="warning" %}
 * [https://todogroup.org/guides/participating/](https://todogroup.org/guides/participating/)
 * [https://opensource.guide/how-to-contribute/](https://opensource.guide/how-to-contribute/)
 * [https://opensource.google/docs/patching/](https://opensource.google/docs/patching/)
@@ -48,7 +48,7 @@ SK텔레콤은 구성원이 개발한 패치 등의 방법으로 오픈소스 �
 
 \(haksung : 이 부분은 회사 상황에 맞게 개선할 필요 있음\)
 
-{% hint style="info" %}
+{% hint style="warning" %}
 100 라인 미만의 코드 기여
 {% endhint %}
 
