@@ -2,7 +2,7 @@
 description: Releasing new open source projects
 ---
 
-# 오픈소스 공개
+# 공개 절차
 
 {% hint style="warning" %}
 [https://opensource.google/docs/releasing/](https://opensource.google/docs/releasing/)

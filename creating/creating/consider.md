@@ -1,4 +1,4 @@
-# 고려 사항
+# 사전 고려해야 할 사항
 
 {% hint style="warning" %}
 [https://todogroup.org/guides/starting/](https://todogroup.org/guides/starting/)
