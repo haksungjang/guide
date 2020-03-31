@@ -54,7 +54,7 @@ description: Releasing new open source projects
 2. Repository에 코드를 Push합니다. 
 3. \(작성 중\)
 
-{% page-ref page="releasing/" %}
+{% page-ref page="releasing.md" %}
 
 
 
