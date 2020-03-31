@@ -77,3 +77,7 @@ MIT와 같은 오픈소스 라이선스는 명시적 특허 허여 조항을 포
 * 향후 라이선스 변경 필요성을 고려하여 기여자들에게 미리 이에 대한 동의를 받기 위한 내용을 CLA에 포함시킬 수 있습니다. 
 * CLA 작성 시, [CLA assistant](https://github.com/cla-assistant/cla-assistant)를 이용하면 기여자의 혼란을 줄일 수 있습니다. 
 
+## Google CLA
+
+\(haksung : Google CLA에 대해 추가 검토 필요 - [https://opensource.google/docs/releasing/contributions/](https://opensource.google/docs/releasing/contributions/)\)
+
