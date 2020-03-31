@@ -14,9 +14,9 @@ description: Releasing new open source projects
 
 {% page-ref page="../../../contribute/main/" %}
 
-## Quick Overview
-
 새로운 오픈소스를 공개하는 개략적인 절차는 다음과 같습니다. 
+
+## Quick Overview
 
 ### 1. 준비하기
 

@@ -2,7 +2,7 @@
 
 * [오픈소스 가이드 \(draft\)](README.md)
 
-## Creating
+## CREATING
 
 * [오픈소스 공개하기](creating/creating/README.md)
   * [공개해야 하는 이유](creating/creating/why.md)
@@ -15,8 +15,8 @@
       * [CONTRIBUTING](creating/creating/release/prepare/contributing.md)
       * [CLA와 DCO](creating/creating/release/prepare/cla.md)
       * [Code of Conduct](creating/creating/release/prepare/conduct.md)
-    * [승인 절차](creating/creating/release/approval.md)
-    * [Releasing](creating/creating/release/releasing.md)
+    * [승인](creating/creating/release/approval.md)
+    * [공개](creating/creating/release/releasing.md)
     * [기여 받기](creating/creating/release/accept.md)
     * [FAQ](creating/creating/release/faq.md)
   * [Maintainer 역할](creating/creating/maintainer.md)
