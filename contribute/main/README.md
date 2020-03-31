@@ -4,11 +4,19 @@ description: contibute
 
 # 오픈소스 기여하기
 
+{% hint style="info" %}
+* [https://todogroup.org/guides/participating/](https://todogroup.org/guides/participating/)
+* [https://opensource.guide/how-to-contribute/](https://opensource.guide/how-to-contribute/)
+* [https://opensource.google/docs/patching/](https://opensource.google/docs/patching/)
+{% endhint %}
+
 오픈소스는 소프트웨어를 개발할 때 가장 필수적인 구성요소가 되었습니다. 기업들은 오픈소스를 사용하여 제품 및 서비스를 구축하는 것에 그치지 않고, 오픈소스 프로젝트에 기여하는 전략적 가치도 고려하고 있습니다. 
+
+SK텔레콤은 구성원이 개발한 패치 등의 방법으로 오픈소스 프로젝트에 기여하는 것을 적극 권장합니다.
 
 그러나 오픈소스 프로젝트와 커뮤니티에 대한 이해와 전략 없이 뛰어들면 실망감만 안겨줄 수 있습니다. 특히, 커뮤니티에서 기업의 명성이 떨어질 뿐만 아니라 법적 위험이 발생할 수도 있습니다. 
 
-이 가이드에서는 기업이 오픈소스에 기여하는 이유 및 방법에 대해 설명합니다. 
+이 가이드에서는 SK텔레콤 구성원이 오픈소스 프로젝트에 기여하기 전에 따라야 할 몇가지 요구 사항과 올바른 기여 방법을 설명합니다. 
 
 ## 기여에 앞서
 
@@ -35,6 +43,51 @@ description: contibute
 ### 프로젝트 체크
 
 {% page-ref page="validate.md" %}
+
+## 기본 규칙
+
+\(haksung : 이 부분은 회사 상황에 맞게 개선할 필요 있음\)
+
+{% hint style="info" %}
+100 라인 미만의 코드 기여
+{% endhint %}
+
+### 회사 이메일 사용
+
+sktelecom.com 이메일을 사용해서 기여하세요. GitHub에 있는 프로젝트에 기여할때는 다음 페이지를 참고하여 이메일을 설정할 수 있습니다. : [How to associate your commit with a sktelecom.com email](https://help.github.com/articles/setting-your-email-in-git/).
+
+### 저작권 표
+
+AUTHORS 파일과 소스 코드 파일에 저작권 정보 \(SK TELECOM CO., LTD.\)를 표기하여 SK텔레콤이 기여에 대한 저작권 등 소유권을 주장할 수 있음을 표시하세요. 
+
+### 검토 요청
+
+새로운 프로젝트에 처음 기여할때에는 기본적으로 OSPO에 검토를 요청합니다. 
+
+\(haksung : 검토 요청 방법 구체화하여 추가 필요\)
+
+단, 다음 조건 모두를 만족하는 repository에 기여하는건 별도의 검토 없이 기여를 제출할 수 있습니다. 
+
+* GitHub에 공개된 Repository
+* 적용된 라이선스가 아래 목록 중 하나임
+  * Apache-2.0
+  * MIT
+  * BSD
+  * LGPL\*
+  * GPL\*
+  * MPL
+  * EPL
+  * ISC
+  * CC-BY
+  * CC-BY-SA
+  * OFL
+  * MS-PL
+  * Boost Software License
+  * Unilicense
+  * Artistice License
+* CLA에 서명할 것을 요구하지 않음
+
+\(haksung : 이외 rule에 추가할 사항 고려 필요\)
 
 ## 오픈소스에 기여하기
 
