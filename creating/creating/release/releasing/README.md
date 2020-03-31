@@ -1,7 +1,7 @@
 # 공개
 
 {% hint style="warning" %}
-[https://opensource.google/docs/releasing/publishing/](https://opensource.google/docs/releasing/publishing/)
+## [https://opensource.google/docs/releasing/publishing/](https://opensource.google/docs/releasing/publishing/)
 {% endhint %}
 
 공개\(Releasing\)는 ['오픈소스 공개](https://opensource-skt.gitbook.io/guide/creating/creating/release)'의 한 단계로써 승인을 받은 후 진행하며 다음 단계를 따릅니다. 
@@ -31,6 +31,12 @@
 * 오픈소스로 공개된 도구들로는 IRC, [Gitter.im](https://gitter.im/), [Rocket.Chat ](https://rocket.chat/)등이 있습니다. Rocket.Chat은 오픈소스이며 Slack과 유사한 기능을 제공합니다. 
 
 단, Slack과 같은 타사 서비스에서는 회사의 기밀 정보를 논의해서는 안됩니다. 이러한 커뮤니케이션 채널은 공개 토론으로만 사용해야하며 회사 내부 조직의 논의 도구로는 사용할 수 없습니다. 
+
+## 빌드 산출물 배포
+
+빌드 산출물을 npm, pypi, rebugems 등과 같은 repository에 배포하려면 다음 페이지를 참조하세요. 
+
+{% page-ref page="build-artifact.md" %}
 
 
 
