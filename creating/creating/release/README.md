@@ -8,11 +8,7 @@ description: Releasing new open source projects
 [https://opensource.google/docs/releasing/](https://opensource.google/docs/releasing/)
 {% endhint %}
 
-여기서는 새로운 오픈소스를 공개하는 절차에 대해 설명합니다. \(여기서 '공개'라는 말은 GitHub과 같은 Repository에 소프트웨어를 등록하여 누구나 접근할 수 있게 하는 것을 의미합니다.\)
-
-만약, 이미 존재하고 있는 오픈소스 프로젝트에 기여하는 절차는 오픈소스 기여하기를 참고하세요. 
-
-{% page-ref page="../../../contribute/main/" %}
+여기서는 새로운 오픈소스를 공개하는 절차에 대해 설명합니다. \(여기서 '공개'라는 말은 GitHub과 같은 Repository에 소프트웨어를 등록하여 누구나 접근할 수 있게 하는 것을 의미합니다.\)\
 
 새로운 오픈소스를 공개하는 개략적인 절차는 다음과 같습니다. 
 
@@ -58,13 +54,13 @@ description: Releasing new open source projects
 2. Repository에 코드를 Push합니다. 
 3. \(작성 중\)
 
-{% page-ref page="releasing.md" %}
+{% page-ref page="releasing/" %}
 
 
 
 ## Patching
 
-다음 경우에 해당한다면 기여하기 절차를 따릅니다. 
+만약, 다음 경우에 해당한다면 기여하기 절차를 따릅니다. 
 
 1. \(기여의 규모나 복잡성에 관계 없이\) 기존 오픈소스 프로젝트에 기여하는 경우
 2. 100 라인 이하의 코드 조각을 공개하는 경우
