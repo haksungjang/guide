@@ -1,11 +1,6 @@
 # 공개해야 하는 이유
 
-{% hint style="warning" %}
-* [https://todogroup.org/guides/starting/](https://todogroup.org/guides/starting/)
-* [https://opensource.google/docs/why/](https://opensource.google/docs/why/)
-{% endhint %}
-
-소프트웨어를 오픈소스로 공개하는 데에는 여러 이유가 있습니다. 
+기업이 소프트웨어를 오픈소스로 공개하는 데에는 여러 이유가 있습니다. 
 
 ## 경제적으로 유리합니다
 
@@ -38,4 +33,9 @@ GNU와 Linux를 예로 들어보겠습니다. GNU와 Linux는 Unix 운영체제�
 {% hint style="info" %}
 기업은 이러한 오픈소스 활동으로 커뮤니티에서 명성이 높아지고, 오픈소스 개발자에게는 매력적인 일터로 비치게 되면서 인재를 확보할 수 있습니다. 
 {% endhint %}
+
+> 이 페이지는 아래 문서를 참고하여 작성되었습니다. 
+>
+> * [https://todogroup.org/guides/starting/](https://todogroup.org/guides/starting/)
+> * [https://opensource.google/docs/why/](https://opensource.google/docs/why/)
 
