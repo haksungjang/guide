@@ -1,6 +1,6 @@
 # 기여 받기
 
-{% hint style="info" %}
+{% hint style="warning" %}
 [https://opensource.google/docs/releasing/contributions/](https://opensource.google/docs/releasing/contributions/)
 {% endhint %}
 

@@ -20,29 +20,31 @@ SK텔레콤은 구성원이 개발한 패치 등의 방법으로 오픈소스 �
 
 ## 기여에 앞서
 
+
+
 ### 오픈소스에 기여해야 는 이유
 
-{% page-ref page="expect.md" %}
+{% page-ref page="undefined-2/expect.md" %}
 
 ### 오픈소스 프로젝트 관리 구조
 
 오픈소스 프로젝트를 구성하는 인원의 역할과 책임은 어떻게 되나요?
 
-{% page-ref page="role.md" %}
+{% page-ref page="undefined-2/role.md" %}
 
 ### 오픈소스 기여 형태
 
 오픈소스에 기여하는 유형에는 어떤 것들이 있나요?
 
-{% page-ref page="type.md" %}
+{% page-ref page="undefined-2/type.md" %}
 
 ### 좋은 기여자가 되려면
 
-{% page-ref page="good.md" %}
+{% page-ref page="undefined-2/good.md" %}
 
 ### 프로젝트 체크
 
-{% page-ref page="validate.md" %}
+{% page-ref page="undefined-2/validate.md" %}
 
 ## 오픈 소스 기여 기본 규칙
 

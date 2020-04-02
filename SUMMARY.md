@@ -29,12 +29,13 @@
 ## PATCHING <a id="contribute"></a>
 
 * [오픈소스 기여하기](contribute/main/README.md)
-  * [기여해야하는 이유](contribute/main/expect.md)
-  * [거버넌스](contribute/main/role.md)
+  * [기여에 앞서](contribute/main/undefined-2/README.md)
+    * [기여해야하는 이유](contribute/main/undefined-2/expect.md)
+    * [거버넌스 구조](contribute/main/undefined-2/role.md)
+    * [기여 유형](contribute/main/undefined-2/type.md)
+    * [좋은 기여자](contribute/main/undefined-2/good.md)
+    * [프로젝트 확인 방법](contribute/main/undefined-2/validate.md)
   * [커뮤니케이션 방법](contribute/main/undefined.md)
-  * [좋은 기여자](contribute/main/good.md)
-  * [기여 활동 종류](contribute/main/type.md)
-  * [프로젝트 체크](contribute/main/validate.md)
   * [Pull Request](contribute/main/pull-request.md)
 
 ## USING <a id="use"></a>
