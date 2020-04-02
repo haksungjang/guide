@@ -34,6 +34,6 @@
 단, 더 이상 유용하지 않은 코드인데도 공개만 하면 무조건 커뮤니티가 관리할 것으로 생각해서는 안 됩니다. 오픈소스 커뮤니티는 오래된 코드를 관리해주는 조직이 아닙니다. 실제로 매력적이지 않은 코드를 반복해서 공개한다면 그 회사는 오픈소스 세에서 신뢰를 잃게 되고, 나중에는 다른 코드를 오픈소스로 공개하여도 개발자는 관심을 두지 않을 것입니다.
 
 {% hint style="success" %}
-이 페이지는 다음 문서를 참고하여 작성하였습니다. : [https://todogroup.org/guides/starting/](https://todogroup.org/guides/starting/)
+이 페이지는 다음 문서를 참고하였습니. : [https://todogroup.org/guides/starting/](https://todogroup.org/guides/starting/)
 {% endhint %}
 

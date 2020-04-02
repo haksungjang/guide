@@ -1,10 +1,6 @@
 # 공개
 
-{% hint style="warning" %}
-[https://opensource.google/docs/releasing/publishing/](https://opensource.google/docs/releasing/publishing/)
-{% endhint %}
-
-공개\(Releasing\)는 ['오픈소스 공개](https://opensource-skt.gitbook.io/guide/creating/creating/release)'의 한 단계로써 승인을 받은 후 진행하며 다음 단계를 따릅니다. 
+OSPO의 승인을 받은 후에는 아래 사항을 확인하며 공개를 진행합니다. 
 
 ## 암호화 컴플라이언스 \(Cryptography compliance\)
 
@@ -50,4 +46,8 @@
 2. SK텔레콤 기술 블로그에 프로젝트에 대해 소개합니다. 
 3. SK텔레콤 소셜 미디어\(Twitter, Facebook, LinkedIn 등\)를 통해 홍보합니다. 또한 프로젝트 자체의 소셜 미디어 계정을 생성하여 지속적으로 활동합니다. 
 4. 프로젝트와 관련이 있는 오픈소스 컨퍼런스에서 주제 발표를 합니다. 
+
+{% hint style="success" %}
+이 페이지는 다음 문서를 참고하였습니다. : [https://opensource.google/docs/releasing/publishing/](https://opensource.google/docs/releasing/publishing/)
+{% endhint %}
 

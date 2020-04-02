@@ -35,7 +35,7 @@ GNU와 Linux를 예로 들어보겠습니다. GNU와 Linux는 Unix 운영체제�
 {% endhint %}
 
 {% hint style="success" %}
-이 페이지는 다음 문서를 참고하여 작성하였습니다. 
+이 페이지는 다음 문서를 참고하였습니. 
 
 * [https://todogroup.org/guides/starting/](https://todogroup.org/guides/starting/) 
 * [https://opensource.google/docs/why/](https://opensource.google/docs/why/)

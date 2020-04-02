@@ -49,9 +49,7 @@ SK텔레콤은 소프트웨어를 오픈소스로 공개 시 기본적으로 [Ap
 
 \(haksung : Protex 사용하여 출처 확인하는 과정 추가 안내 필요\)
 
-### 2\) 3rd party 코드는 별도 디렉토리에 모으세요
-
-프로젝트가 Dependency를 다운로드 및 사용하기 위한 Package Manager를 사용한다면, Dependency 분석\(haksung : dependency 분석 방법 추가 필요\)등의 방법을 수행하여 프로젝트의 Repository에 3rd party 코드가 포함되지 않게 합니다. 
+### 2\) 3rd party 코드는 별도 디렉토리에 모으세요. 
 
 프로젝트에 3rd party 코드를 포함해야 하는 경우라면, 즉 SK텔레콤이 저작권을 갖고 있지 않은 코드를 프로젝트에 포함해야 한다면 SK텔레콤 코드와 다른 디렉토리\(예: third\_party\)에 위치시킵니다. 이는 라이선스 관점에서 프로젝트의 투명성을 증대시키며, 향후 사용자도 3rd party 코드를 쉽게 찾게 찾게 되어 정확한 라이선스 요구사항을 준수할 수 있게 합니다. 
 
@@ -72,12 +70,14 @@ SK텔레콤은 소프트웨어를 오픈소스로 공개 시 기본적으로 [Ap
         `-- ...
 ```
 
-### 3\) 주석을 정리하세요
+프로젝트가 Dependency를 다운로드 및 사용하기 위한 Package Manager를 사용한다면, Dependency 분석\(haksung : dependency 분석 방법 추가 필요\)등의 방법을 수행하여 프로젝트의 Repository에 3rd party 코드가 포함되지 않게 합니다. 
 
-* \(명시적으로 허용하지 않았다면\) SK텔레콤 구성원의 이름과 이메일 주소를 삭제하세요. 
+### 3\) 주석을 정리하세요. 
+
+* \(굳이 외부에 공개할 필요가 없는\) SK텔레콤 구성원의 이름과 이메일 주소를 삭제하세요. 
 * 내부 정보를 삭제하세요. \(내부 코드 파일 이름 / 경로, 내부 호스트 / IP정보 등\)
 
-이를 위해 쉽게 처리할 수 있는 명령어를 참고하세요. 
+참고로, 아래의 명령어를 사용하면, 불필요한 주석을 쉽게 찾을 수 있습니다.
 
 * 회사 웹사이트, 이메일, IP 주소 검색
 
@@ -97,7 +97,7 @@ $ find <path-to-source-dir> -type f | egrep '\.(c|cc|h|cpp|go|java|kt|m|mm|swift
 $ find <path-to-source-dir> -type f | egrep '\.(py|sh)' | while read f; do echo "------------ $f ------------------"; grep -o "#.*" "$f"; done
 ```
 
-### 4\) README 파일을 포함하세요
+### 4\) README 파일을 포함하세요. 
 
 우리가 공개한 오픈소스를 많은 사용자들이 사용하기를 원하나요? 그렇다면 사람들이 쉽게 시작할 수 있도록 README 파일을 제공하세요. README에 대한 자세한 내용은 다음 페이지를 참고하세요. 
 
@@ -110,7 +110,7 @@ $ find <path-to-source-dir> -type f | egrep '\.(py|sh)' | while read f; do echo 
 * Apache License의 경우, [공식 라이선스 사본 파일](http://www.apache.org/licenses/LICENSE-2.0.txt)을 그대로 복사해서 사용하면 됩니다.
 * 다른 라이선스를 적용하기로 한 경우, 라이선스 사본은 [SPDX License List](https://spdx.org/licenses/)에서 받을 수 있습니다. 
 
-### 6\) 저작권 및 라이선스를 표기하세요
+### 6\) 저작권 및 라이선스를 표하세요
 
 소스 코드를 포함하는 모든 파일은 저작권 및 라이선스 표기를 포함해야 합니다. 이는 몇몇 파일만 복사해서 사용하려는 사용자들도 라이선스 의무를 준수하는데 도움이 됩니다. 자세한 내용은 다음 페이지를 참고하세요. 
 
@@ -193,4 +193,8 @@ $ find <path-to-source-dir> -type f | egrep '\.(py|sh)' | while read f; do echo 
 1. 프로젝트 로고, Color Scheme, 웹사이트 등을 디자인하세요. 
 2. 소셜 미디어 계정을 등록하세요. \(Twitter, Facebook, LinkedIn 등\)
 3. Domain Name을 등록하세요.
+
+{% hint style="success" %}
+이 페이지는 다음 문서를 참고하였습니다. : [https://opensource.google/docs/releasing/](https://opensource.google/docs/releasing/)
+{% endhint %}
 

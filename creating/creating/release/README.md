@@ -55,6 +55,6 @@ description: Releasing new open source projects
 도움이 필요하세요? opensource@sk.com으로 연락주세요. \(haksung : 공식적인 창구 확인 필요. 이메일로 할지, TDE를 통할지?\)
 
 {% hint style="success" %}
-이 페이지는 다음 문서를 참고하여 작성하였습니다. : [https://opensource.google/docs/releasing/](https://opensource.google/docs/releasing/)
+이 페이지는 다음 문서를 참고하였습니. : [https://opensource.google/docs/releasing/](https://opensource.google/docs/releasing/)
 {% endhint %}
 
