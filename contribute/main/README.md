@@ -4,12 +4,6 @@ description: contibute
 
 # 오픈소스 기여하기
 
-{% hint style="warning" %}
-* [https://todogroup.org/guides/participating/](https://todogroup.org/guides/participating/)
-* [https://opensource.guide/how-to-contribute/](https://opensource.guide/how-to-contribute/)
-* [https://opensource.google/docs/patching/](https://opensource.google/docs/patching/)
-{% endhint %}
-
 오픈소스는 소프트웨어를 개발할 때 가장 필수적인 구성요소가 되었습니다. 기업들은 오픈소스를 사용하여 제품 및 서비스를 구축하는 것에 그치지 않고, 오픈소스 프로젝트에 기여하는 전략적 가치도 고려하고 있습니다. 
 
 SK텔레콤은 구성원이 개발한 패치 등의 방법으로 오픈소스 프로젝트에 기여하는 것을 적극 권장합니다.
@@ -24,7 +18,7 @@ SK텔레콤은 구성원이 개발한 패치 등의 방법으로 오픈소스 �
 
 {% page-ref page="undefined-2/" %}
 
-## 오픈 소스 기여 기본 규칙
+## 기본 규칙
 
 SK텔레콤 구성원이 외부 오픈소스 프로젝트에 기여할 때 준수해야 할 기본 규칙이 있습니다. 
 
@@ -37,6 +31,14 @@ SK텔레콤 구성원이 외부 오픈소스 프로젝트에 기여할 때 준�
 이제 기여 방법과 절차에 대해 세부적으로 알아보겠습니다. 
 
 {% page-ref page="undefined-1/" %}
+
+{% hint style="success" %}
+이 페이지는 다음 문서를 참고하였습니다.
+
+* [https://todogroup.org/guides/participating/](https://todogroup.org/guides/participating/)
+* [https://opensource.guide/how-to-contribute/](https://opensource.guide/how-to-contribute/)
+* [https://opensource.google/docs/patching/](https://opensource.google/docs/patching/)
+{% endhint %}
 
 
 

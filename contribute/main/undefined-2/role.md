@@ -1,15 +1,8 @@
 # 거버넌스 구조
 
-{% hint style="warning" %}
-* [https://todogroup.org/guides/participating/](https://todogroup.org/guides/participating/)
-* [https://opensource.guide/ko/leadership-and-governance/](https://opensource.guide/ko/leadership-and-governance/)
-{% endhint %}
+오픈소스 프로젝트는 어떻게 관리 될까요? 서로 모르는 다수의 사람들이 어떻게 코드를 함께 작성하며 수많은 사람들이 사용하는 안정적인 제품을 만들어 낼 수 있을까요? 우수한 오픈소스 프로젝트는 명확한 프로젝트 거버넌스 구조를 가지고 있습니다. 
 
-## 오픈소스 프로젝트는 어떻게 관리될까요?
-
-서로 모르는 다수의 사람들이 어떻게 코드를 함께 작성하며 수많은 사람들이 사용하는 안정적인 제품을 만들어 낼 수 있을까요? 우수한 오픈소스 프로젝트는 명확한 프로젝트 거버넌스 구조를 가지고 있습니다. 
-
-### 거버넌스 구조
+## 거버넌스 구조
 
 거버넌스 구조는 프로젝트에 따라 매우 다양하지만 다음과 같은 몇가지 공통점이 있습니다. 
 
@@ -21,7 +14,7 @@
 | Contributor | 기여자 코드, 문서화 등의 방법으로 오픈소스 프로젝트에 기여합니다. 이러한 기여는 일반적으로 숙련된 Committer 및 Maintainer에 의해 리뷰 과정을 거치게 됩니다. |
 | User | User는 아마도 오픈소스 프로젝트의 성장과 발전에 가장 중요한 그룹입니다. User는 프로젝트에 목적을 부여하고, 기능, 버그 리포트 등의 방법으로 피드백을 제공함으로 프로젝트를 발전시키는데 도움을 줄 수 있습니다. |
 
-### 문서
+## 문서
 
 또한, 다음과 같 몇가지 공통적으로 사용되는 문서가 있으며,  대개 저장소의 최상위 레벨에 위치합니다. 
 
@@ -33,5 +26,10 @@
 | CODE\_OF\_CONDUCT | 커뮤니티가 건강하게 유지되기 위한 참가자의 행동과 관련된 기본 규칙을 설명합니다. |
 | 기타 문 | \(규모가 큰 프로젝트의 경우\) 튜토리얼, 거버넌스 정책과 같은 문서도 있을 수 있습니다. |
 
+{% hint style="success" %}
+이 페이지는 다음 문서를 참고하였습니다. 
 
+* [https://todogroup.org/guides/participating/](https://todogroup.org/guides/participating/)
+* [https://opensource.guide/ko/leadership-and-governance/](https://opensource.guide/ko/leadership-and-governance/)
+{% endhint %}
 
