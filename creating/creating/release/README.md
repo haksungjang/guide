@@ -56,8 +56,6 @@ description: Releasing new open source projects
 
 {% page-ref page="releasing.md" %}
 
-
-
 ## Patching
 
 만약, 다음 경우에 해당한다면 기여하기 절차를 따릅니다. 
