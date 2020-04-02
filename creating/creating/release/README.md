@@ -8,9 +8,7 @@ description: Releasing new open source projects
 
 새로운 오픈소스를 공개하기 위한 주요 4단계는 다음과 같습니다. 
 
-## Quick Overview
-
-### 1단계. 준비하기
+## 1단계. 준비하기
 
 1. [프로젝트 이름을 정하세요](https://opensource-skt.gitbook.io/guide/creating/creating/release/prepare#undefined). 
 2. [회사 정보가 있는 코드와 주석을 지우세요.](https://opensource-skt.gitbook.io/guide/creating/creating/release/prepare#3)
@@ -28,19 +26,19 @@ description: Releasing new open source projects
 \(haksung : SK텔레콤 내용으로 변경 필요\)
 {% endhint %}
 
-### 2단계. 승인 요청하기
+## 2단계. 승인 요청하기
 
 1. 내부 Git Repository에 코드를 등록하세요. \(haksung : 사내 Git Repository에 대한 정보 추가 필요\)
 2. 오픈소스 검사 도구 \(haksung : Black Duck 사용 방법에 대한 추가 안내 필요\)로 Repository를 검사하고 발견된 이슈를 해결합니다. 
 3. 사내 오픈소스팀에 검토를 요청하세요. \(haksung : 검토 요청 방법에 대해 추가 필요\)
 
-### 3단계. 승인 받기
+## 3단계. 승인 받기
 
 \(haksung : SKT 상황에 맞게 보완\)
 
 {% page-ref page="approval.md" %}
 
-### 4단. 공개 하기
+## 4단. 공개 하기
 
 {% hint style="warning" %}
 중요 : 이 단계는 반드시 승인을 받은 후 진행하세요.
@@ -51,17 +49,6 @@ description: Releasing new open source projects
 3. \(작성 중\)
 
 {% page-ref page="releasing.md" %}
-
-## Patching
-
-만약, 다음 경우에 해당한다면 기여하기 절차를 따릅니다. 
-
-1. \(기여의 규모나 복잡성에 관계 없이\) 기존 오픈소스 프로젝트에 기여하는 경우
-2. 100 라인 이하의 코드 조각을 공개하는 경우
-3. StckOverflow에 코드를 게시하는 경우
-4. 오픈소스 프로젝트의 관리자로 역할을 수행하는 경우
-
-{% page-ref page="../../../contribute/main/" %}
 
 ## Need help?
 
