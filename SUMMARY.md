@@ -16,7 +16,7 @@
       * [CLA와 DCO](creating/creating/release/prepare/cla.md)
       * [Code of Conduct](creating/creating/release/prepare/conduct.md)
     * [승인](creating/creating/release/approval.md)
-    * [릴리즈](creating/creating/release/releasing.md)
+    * [공개](creating/creating/release/releasing.md)
     * [기여 받기](creating/creating/release/accept/README.md)
       * [AUTHORS 파일](creating/creating/release/accept/authors.md)
     * [FAQ](creating/creating/release/faq.md)
@@ -26,7 +26,7 @@
 * [커뮤니티 활성화](creating/community.md)
 * [오픈소스 측정](creating/measure.md)
 
-## PATCHING <a id="contribute"></a>
+## CONTRIBUTING <a id="contribute"></a>
 
 * [오픈소스 기여하기](contribute/main/README.md)
   * [기여에 앞서](contribute/main/undefined-2/README.md)

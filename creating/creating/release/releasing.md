@@ -1,4 +1,4 @@
-# 릴리즈
+# 공개
 
 {% hint style="warning" %}
 [https://opensource.google/docs/releasing/publishing/](https://opensource.google/docs/releasing/publishing/)
