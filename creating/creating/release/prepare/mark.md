@@ -1,11 +1,5 @@
 # 저작권 및 라이선스 표기
 
-{% hint style="warning" %}
-* [https://opensource.google/docs/releasing/licenses/](https://opensource.google/docs/releasing/licenses/)
-* [https://opensource.google/docs/releasing/preparing/](https://opensource.google/docs/releasing/preparing/)
-* [https://matija.suklje.name/how-and-why-to-properly-write-copyright-statements-in-your-code](https://matija.suklje.name/how-and-why-to-properly-write-copyright-statements-in-your-code)
-{% endhint %}
-
 저작권은 \([베른 협약](https://en.wikipedia.org/wiki/Berne_Convention) 이후\) 저작자가 저작물 만들 때 자동으로 생성됩니다. 모든 저작물은 저작권에 의해  보호되며, 저작권 보유자에게 저작물에 대한 독점적인 권한이 부여됩니다. 따라서 당신의 저작물\(소스 코드, 텍스트, 이미지, 기타 미디어 등\)을 다른 사용자가 사용할 수 있게 하려면 그들에게 라이선스를 부여해야 합니다. 라이선스의 사전적 정의는 "특정 권리를 실행하기 위해 자격이 있는 기관으로부터 받은 허가"이며, 이러한 허가 없이 특정 권리를 실행하는 것은 저작권 침해와 같은 불법 행위가 됩니다. 
 
 저작권 표시가 법에 따라 요구되는 것은 아니지만, \(1\) 대부분의 오픈소스 라이선스가 저작권 표시를 요구하고, \(2\) 사용자가 법적 또는 기술적인 이유로 저작권자에게 연락하기를 원할 수 있다는 점을 고려하여 소스 코드 파일에 저작권 표시를 포함하는 것은 의미가 있습니다. 
@@ -71,5 +65,11 @@ autogen --no-code --no-tlc -c "SK TELECOM CO., LTD." -l apache [filename]
 find . -type f -name \*.java -exec autogen -i --no-code --no-tlc -c "SK TELECOM CO., LTD." -l apache {} \;
 ```
 
+{% hint style="success" %}
+이 페이지는 다음 문서를 참고하였습니다. 
 
+* [https://opensource.google/docs/releasing/licenses/](https://opensource.google/docs/releasing/licenses/)
+* [https://opensource.google/docs/releasing/preparing/](https://opensource.google/docs/releasing/preparing/)
+* [https://matija.suklje.name/how-and-why-to-properly-write-copyright-statements-in-your-code](https://matija.suklje.name/how-and-why-to-properly-write-copyright-statements-in-your-code)
+{% endhint %}
 

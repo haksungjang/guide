@@ -2,6 +2,8 @@
 
 OSPO의 승인을 받은 후에는 아래 사항을 확인하며 공개를 진행합니다. 
 
+\(haksung : 보완 필요\)
+
 ## 암호화 컴플라이언스 \(Cryptography compliance\)
 
 오픈소스로 공개하는 프로젝트에 암화화 \(cryptographic\) 관련 소프트웨어가 포함된다면 수출 규제 \(Export Control\) 준수팀에 문의할 필요가 있습니다. 단, 프로젝트가 인증\(authentication\)이나 디지털 서명\(digital signature\) 관련 기능만 제공한다면 문의하지 않아도 됩니다. 
@@ -48,6 +50,9 @@ OSPO의 승인을 받은 후에는 아래 사항을 확인하며 공개를 진�
 4. 프로젝트와 관련이 있는 오픈소스 컨퍼런스에서 주제 발표를 합니다. 
 
 {% hint style="success" %}
-이 페이지는 다음 문서를 참고하였습니다. : [https://opensource.google/docs/releasing/publishing/](https://opensource.google/docs/releasing/publishing/)
+이 페이지는 다음 문서를 참고하였습니다. 
+
+* [https://opensource.google/docs/releasing/publishing/](https://opensource.google/docs/releasing/publishing/)
+* [https://verizonmedia.github.io/oss-guide/docs/publishing/release.html](https://verizonmedia.github.io/oss-guide/docs/publishing/release.html)
 {% endhint %}
 
