@@ -5,7 +5,7 @@
 ## CREATING
 
 * [오픈소스 공개하기](creating/creating/README.md)
-  * [공개해야 하는 이유](creating/creating/why.md)
+  * [공개 목적](creating/creating/why.md)
   * [사전 고려해야 할 사항](creating/creating/consider.md)
   * [공개 절차와 방법](creating/creating/release/README.md)
     * [준비](creating/creating/release/prepare/README.md)
