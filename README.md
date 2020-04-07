@@ -35,6 +35,7 @@ SK텔레콤 구성원이 작성한 소프트웨어를 오픈소스로 공개하�
 * TODO Guides : [https://todogroup.org/guides/](https://todogroup.org/guides/)
 * GitHub Guide : [https://opensource.guide/](https://opensource.guide/)
 * Google Open Source Docs : [https://opensource.google/docs/](https://opensource.google/docs/)
+* Verizon Media Open Source Developer Guide : [https://verizonmedia.github.io/oss-guide/](https://verizonmedia.github.io/oss-guide/)
 
 {% hint style="warning" %}
 이 문서는 GitHub를 통해 공개하고 있으며, 누구나 수정 및 개선 할 수 있습니다. : [https://github.com/opensource-skt/guide](https://github.com/opensource-skt/guide)
