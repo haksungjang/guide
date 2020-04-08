@@ -61,3 +61,7 @@ Maintainer라도 모든 부분을 완벽히 대응할 수 없습니다. 그들�
 
 이런 어려움을 극복하는 좋은 방법으로는 항상 상대방의 글은 좋은 의도라고 가정하는 겁니다. 상대의 제안을 거절할 때도 정중히 하고, 자신의 입장은 명확히 표현하는 것이 좋습니다. 오픈소스라는 인터넷 공간에서 자신을 품위 있게 유지하세요. 
 
+{% hint style="success" %}
+이 페이지는 다음 문서를 참고하였습니다. : [https://opensource.guide/how-to-contribute/](https://opensource.guide/how-to-contribute/)
+{% endhint %}
+
