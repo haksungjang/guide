@@ -11,13 +11,25 @@ description: Releasing new open source projects
 ## 1단계. 준비
 
 1. [프로젝트 이름을 정하세요](https://opensource-skt.gitbook.io/guide/creating/creating/release/prepare#undefined). 
-2. [회사 정보가 있는 코드와 주석을 지우세요.](https://opensource-skt.gitbook.io/guide/creating/creating/release/prepare#3)
-3. [README 파일](https://opensource-skt.gitbook.io/guide/creating/creating/release/prepare#4-readme)을 포함하세요.
-4. [오픈소스 라이선스](https://opensource-skt.gitbook.io/guide/creating/creating/release/prepare#undefined-1)를 선택하고, [소스 파일 헤더](https://opensource-skt.gitbook.io/guide/creating/creating/release/prepare#6)에 저작권과 라이선스를 표시하세요. 
-5. [CONTRIBUTING](https://opensource-skt.gitbook.io/guide/creating/creating/release/prepare#7-contributing) 파일을 포함하세요.
-6. 회사 구성원이 작성하지 않은 코드는 [third\_party 디렉토리](https://opensource-skt.gitbook.io/guide/creating/creating/release/prepare#2-3rd-party)에 있도록 하세요. 
+2. [라이선스를 부여하세요.](https://opensource-skt.gitbook.io/guide/creating/creating/release/prepare#undefined-1)
+3. [공개할 소스 코드를 준비하세요.](https://opensource-skt.gitbook.io/guide/creating/creating/release/prepare#undefined-2)
+   1. 출처확인
+   2. 3rd party 코드 확인
+   3. [회사 정보가 있는 코드와 주석 제거](https://opensource-skt.gitbook.io/guide/creating/creating/release/prepare#3)
+   4. [README 파일](https://opensource-skt.gitbook.io/guide/creating/creating/release/prepare#4-readme) 포함
+   5. LICENSE 파일 포함
+   6. [소스 파일 헤더](https://opensource-skt.gitbook.io/guide/creating/creating/release/prepare#6)에 저작권과 라이선스 표시
+   7. [CONTRIBUTING](https://opensource-skt.gitbook.io/guide/creating/creating/release/prepare#7-contributing) 파일 포함
+   8. CLA 파일 포
+   9.  Code of Conduct 파일 포
+4. [보안 취약점](https://opensource-skt.gitbook.io/guide/creating/creating/process/prepare#undefined-3)을 점검하세요.
+5. [암호화 컴플라이언스](https://opensource-skt.gitbook.io/guide/creating/creating/process/prepare#cryptography-compliance)를 확인하세요.
+6. [커뮤니케이션 채널](https://opensource-skt.gitbook.io/guide/creating/creating/process/prepare#undefined-4)을 준비하세요.
+7. [리더쉽과 거버넌스 체계](https://opensource-skt.gitbook.io/guide/creating/creating/process/prepare#undefined-4)를 수립하세요.
+8. [인프라](https://opensource-skt.gitbook.io/guide/creating/creating/process/prepare#undefined-6)를 구축하세요. 
+9. [웹사이트](https://opensource-skt.gitbook.io/guide/creating/creating/process/prepare#undefined-7)를 구축하세요. 
 
-이에 대한 자세한 사항은 다음 페이자를 참고하세요.
+이에 대한 자세한 사항은 다음 페이지를 참고하세요.
 
 {% page-ref page="prepare/" %}
 
@@ -37,10 +49,6 @@ description: Releasing new open source projects
 {% hint style="warning" %}
 이 단계는 반드시 승인을 받은 후 진행하세요.
 {% endhint %}
-
-1. 외부 Repository를 새성합니다. 
-2. Repository에 코드를 Push합니다. 
-3. \(작성 중\)
 
 {% page-ref page="release.md" %}
 
