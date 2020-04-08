@@ -35,10 +35,10 @@
     * [기여 유형](contribute/main/undefined-2/type.md)
     * [좋은 기여자](contribute/main/undefined-2/good.md)
     * [프로젝트 확인 방법](contribute/main/undefined-2/validate.md)
-  * [기본 규칙](contribute/main/undefined-3.md)
   * [기여 절차와 방법](contribute/main/undefined-1/README.md)
     * [커뮤니케이션 방법](contribute/main/undefined-1/undefined.md)
     * [Pull Request](contribute/main/undefined-1/pull-request.md)
+  * [기본 규칙](contribute/main/undefined-3.md)
 
 ## USING <a id="use"></a>
 

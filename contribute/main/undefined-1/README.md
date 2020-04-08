@@ -1,6 +1,6 @@
 # 기여 절차와 방법
 
-사실 오픈소스 프로젝트마다 원하는 기여 프로세스가 각기 다릅니다. 
+사실 오픈소스 프로젝트마다 요구하는 절가 각기 다릅니다. 
 
 {% hint style="warning" %}
 * 프로젝트마다 코딩 스타일, language, formatting, bug/ticket 관리, 릴리즈 시기 등에 대한 다양한 가이드라인을 갖고 있습니다. 
@@ -12,23 +12,44 @@
 
 ## 1. 문서 읽기
 
-대개의 프로젝트는 CONTRIBUTING 또는 README 파일로 이러한 문서를 제공합니다.
+대개의 프로젝트는 CONTRIBUTING 또는 README 파일로 이러한 문서를 제공합니다. 
 
 {% hint style="warning" %}
-예를 들어, Kubernates는 기여자를 위한 가이드를 자세히 제공합니다. 
+예를 들어, Kubernates는 기여자를 위한 자세한 가이드를 제공합니다. 
 
 * [contributing.md](https://github.com/kubernetes/community/blob/master/contributors/guide/contributing.md) : Kubernates에 기여하기 위한 가이드
 {% endhint %}
 
-## 2. 기여 제출하기
+문서에서 요구하는 사항을 잘 준수할수록 당신의 기여가 수락될 가능성이 커집니다. 
 
-문서에서 알려주는 프로세스에 따라 기여를 제출합니다. 이때 몇가지 알고 있으면 좋은 사항들을 소개합니다.
+## 2. CLA \(Contributors License Agreement\) 검토하
+
+어떤 프로젝트는 기여자에게 CLA \(Contributor License Agreement\)에 서명할 것을 요구합니다. 이때 CLA에 임의로 서명하지 마세요. 이 경우는 OSPO의 승인을 받아야 합니다. \(haksung : OSPO 승인 절차 추가 필요\)
+
+대부분의 CLA는 서명해도 문제가 되지 않기 때문에 승인 절차가 오래 걸리지 않습니다. 드문 경우지만, CLA에서 지적 재산권을 완전히 양도할 것을 요구하기도 합니다. 이럴 때는 CLA에 서명할 수 없습니다. 따라서 그 프로젝트에는 기여할 수 없습니다.   
+
+
+## 3. 기여물 검토하기 
+
+기여를 제출하기 전에 다음 사항을 한번 확인하세요.
+
+* 기여할 권리가 있는 코드인가요? 당신이 작성한 코드라면 문제 되지 않습니다. 만약 기여하려는 코드에 당신이 작성하지 않은 코드가 포함되었다면 기여할 권리가 있는지 확인이 필요합니다. Jira Ticket을 생성하여 OSPO에 문의하세요. \(haksung : Jira Ticket 생성 방법 추가 제공 필요\)
+* 회사의 민감하거나 독점적인 정보가 노출될 수 있는 코드를 제공하지 마세요.
+* 수준 미달의 코드를 기여하지 마세요. 당신의 기여는 당신의 엔지니어링 스킬을 나타냅니다. 또한 우리 회사의 명성에 영향을 미칠 수 있습니다.
+
+이외에 어떤 사항이라도 궁금한 사항이 있다면 Jira Ticket을 열고 OSPO에 문의하세요.
+
+## 4. 기여 제출하기
+
+이제 프로젝트의 문서에서 요구하는 절차에 따라 기여를 제출합니다. 
+
+일반적인 오픈소스 프로젝트에 기여하는 방법과 절차는 아래를 참고하세요. 
 
 ### 효과적인 커뮤니케이션 방법
 
 {% page-ref page="undefined.md" %}
 
-### 과거 자료 수집
+### 과거 자료 확인 
 
 무엇이든 시작하기 전에 먼저 이전에  다뤄진 적이 있는지 과거 자료를 확인하세요. 프로젝트의 README, 이슈, 메일링 리스트를 살펴보세요. 모든 문서를 다 확인할 필요 없이, 몇 가지 키워드를 검색하면 쉽게 확인할 수 있습니다. 
 
@@ -102,4 +123,12 @@ PR을 오픈한 상태로 응답하지 않고 남겨두는건 결례입니다. �
 ### 4\) 수락됐다!
 
 축하합니다! 드디어 오픈소스 기여에 성공했습니다.
+
+{% hint style="success" %}
+이 페이지는 다음 문서를 참고하였습니다. 
+
+* [https://todogroup.org/guides/participating/](https://todogroup.org/guides/participating/)
+* [https://opensource.guide/how-to-contribute/](https://opensource.guide/how-to-contribute/)
+* [https://verizonmedia.github.io/oss-guide/docs/contributing/contributing.html](https://verizonmedia.github.io/oss-guide/docs/contributing/contributing.html)
+{% endhint %}
 
