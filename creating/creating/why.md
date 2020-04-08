@@ -1,4 +1,4 @@
-# 공개 목적
+# 목적
 
 기업이 소프트웨어를 오픈소스로 공개하는 데에는 다음과 같은 목적을 위해서입니다. 
 
@@ -43,9 +43,13 @@ GNU와 Linux를 예로 들어보겠습니다. GNU와 Linux는 Unix 운영체제�
 {% endhint %}
 
 {% hint style="success" %}
-이 페이지는 다음 문서를 참고하였습니. 
+이 페이지는 다음 문서를 참고하였습니다. 
 
 * [https://todogroup.org/guides/starting/](https://todogroup.org/guides/starting/) 
 * [https://opensource.google/docs/why/](https://opensource.google/docs/why/)
 {% endhint %}
+
+다음 링크에서 이전 페이지로 돌아갈 수 있습니다.
+
+{% page-ref page="./" %}
 
