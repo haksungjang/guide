@@ -48,7 +48,7 @@ SK텔레콤은 소프트웨어를 오픈소스로 공개 시 기본적으로 [Ap
 
 ### 2\) 3rd party 코드는 별도 디렉토리에 모으세요. 
 
-프로젝트에 3rd party 코드를 포함해야 하는 경우라면, 즉 SK텔레콤이 저작권을 갖고 있지 않은 코드를 프로젝트에 포함해야 한다면 SK텔레콤 코드와 다른 디렉토리\(예: third\_party\)에 위치시킵니다. 이는 라이선스 관점에서 프로젝트의 투명성을 증대시키며, 향후 사용자도 3rd party 코드를 쉽게 찾게 찾게 되어 정확한 라이선스 요구사항을 준수할 수 있게 합니다. 
+프로젝트에 3rd party 코드를 포함해야 하는 경우라면, 즉, SK텔레콤이 저작권을 갖고 있지 않은 코드를 프로젝트에 포함해야 한다면 SK텔레콤 코드와 다른 디렉토리\(예: third\_party\)에 위치시킵니다. 이는 라이선스 관점에서 프로젝트의 투명성을 증대시키며, 향후 사용자도 3rd party 코드를 쉽게 찾게 찾게 되어 정확한 라이선스 요구사항을 준수할 수 있게 합니다. 
 
 3rd party 라이브러리에서 복사하거나 파생된 모든 파일은 역시 third\_party 디렉토리에 저장되어야 합니다. 3rd party 디렉토리에 있는 모든 디렉토리는 각각 LICENSE 파일 \(저작권 정보와 라이선스 전문을 포함하는 텍스트 파일\)을 포함해야 합니다. 
 
@@ -94,32 +94,36 @@ $ find <path-to-source-dir> -type f | egrep '\.(c|cc|h|cpp|go|java|kt|m|mm|swift
 $ find <path-to-source-dir> -type f | egrep '\.(py|sh)' | while read f; do echo "------------ $f ------------------"; grep -o "#.*" "$f"; done
 ```
 
-### 4\) README 파일을 포함하세요. 
+### 4\) 보안 취약점을 검토하세요.
+
+보안 부서와 협업하여 공개하려고 하는 코드에 보안 취약점이 있는지 검토하고, 이슈를 해결하세요. 
+
+### 5\) README 파일을 포함하세요. 
 
 우리가 공개한 오픈소스를 많은 사용자들이 사용하기를 원하나요? 그렇다면 사람들이 쉽게 시작할 수 있도록 README 파일을 제공하세요. README에 대한 자세한 내용은 다음 페이지를 참고하세요. 
 
 {% page-ref page="readme.md" %}
 
-### 5\) 라이선스 파일을 포함하세요
+### 6\) 라이선스 파일을 포함하세요.
 
 라이선스 사본을 담고 있는 LICENSE라는 이름의 텍스트 파일을 최상위 디렉토리에 포함합니다. 
 
 * Apache License의 경우, [공식 라이선스 사본 파일](http://www.apache.org/licenses/LICENSE-2.0.txt)을 그대로 복사해서 사용하면 됩니다.
 * 다른 라이선스를 적용하기로 한 경우, 라이선스 사본은 [SPDX License List](https://spdx.org/licenses/)에서 받을 수 있습니다. 
 
-### 6\) 저작권 및 라이선스를 표하세요
+### 7\) 저작권 및 라이선스를 표시하세요. 
 
 소스 코드를 포함하는 모든 파일은 저작권 및 라이선스 표기를 포함해야 합니다. 이는 몇몇 파일만 복사해서 사용하려는 사용자들도 라이선스 의무를 준수하는데 도움이 됩니다. 자세한 내용은 다음 페이지를 참고하세요. 
 
 {% page-ref page="mark.md" %}
 
-### 7\) CONTRIBUTING 파일을 포함하세요
+### 8\) CONTRIBUTING 파일을 포함하세요. 
 
 기여자들이 참고할 수 있는 "How to Contribute"에 대한 내용을 제공하는 파일입니다. CONTRIBUTING 파일이 충실하지 않다면 프로젝트로의 기여에 관심이 있던 사용자들도 열정을 잃게 됩니다. CONTRIBUTING 파일에 대한 자세한 내용은 다음 페이지를 참고하세요. 
 
 {% page-ref page="contributing.md" %}
 
-### 8\) CLA 파일을 포함하세요
+### 9\) CLA 파일을 포함하세요
 
 일반적인 오픈소스 라이선스는 기여자로부터의 라이선싱도 명시하고 있기 때문에 추가적인 Contributor Agreement가 필요하지 않습니다. 필요에 따라 코드의 법적 문제를 방지하기 위해 기여자에게 CLA \(Contributor License Agreement\)나 DCO\(Developer Certificate of Origin\)를 요구하는 것도 고려할 수 있습니다. CLA와 DCO에 대한 세부 내용은 다음 페이지를 참고하세요. 
 
@@ -127,7 +131,7 @@ $ find <path-to-source-dir> -type f | egrep '\.(py|sh)' | while read f; do echo 
 
 {% page-ref page="cla.md" %}
 
-### 9\) Code of Conduct 파일을 포함하세요 \(선택 사항\)
+### 10\) Code of Conduct 파일을 포함하세요 \(선택 사항\)
 
 \(haksung : SK텔레콤의 Code of Conduct 작성 필요\)
 
@@ -139,7 +143,7 @@ $ find <path-to-source-dir> -type f | egrep '\.(py|sh)' | while read f; do echo 
 \(haksung : 승인 요청 방법 구체화 필요\)
 {% endhint %}
 
-## 추가 사항
+## 추가 사항아래 사항은 작성 중입니다. 
 
 \(haksung : 아래 사항들을 가이드에 포함할지는 추가 검토 필요\)
 

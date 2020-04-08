@@ -28,7 +28,7 @@ description: Releasing new open source projects
 
 ## 2단계. 승인
 
-1단계 준비가 완료되면 TDE &gt; OSPO &gt; Jira Ticke을 생성하여 OSPO 승인을 요청할 수 있습니다.
+1단계 준비가 완료되면 TDE &gt; OSPO &gt; Jira Ticket을 생성하여 OSPO 승인을 요청합니다. 
 
 {% page-ref page="approval.md" %}
 
