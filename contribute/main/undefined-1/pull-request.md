@@ -93,3 +93,10 @@ Pull Request가 처음이라면 [Make a Pull Request](http://makeapullrequest.co
 * [github\_workflow.md](https://github.com/kubernetes/community/blob/master/contributors/guide/github-workflow.md) : GitHub에서 기여하기 위한 절차 설명
 {% endhint %}
 
+{% hint style="info" %}
+이 페이지는 다음 문서를 참고하였습니다. 
+
+* [https://todogroup.org/guides/participating/](https://todogroup.org/guides/participating/)
+* [https://opensource.guide/how-to-contribute/](https://opensource.guide/how-to-contribute/)
+{% endhint %}
+
