@@ -6,20 +6,21 @@ OSPO의 승인을 받은 후에는 아래 사항을 확인하며 공개와 홍�
 
 모든 준비와 검토 단계를 마친 후에는 최종적으로 다음 사항을 확인합니다. 
 
+ \(haksung : sk github repository를 사용할 수 있도록 추가 안내 필요\) 
+
+* 공개를 위한 Repository에 모든 코드와 문서가 존재하는지 확인하세요. 
 * 모든 프로젝트 인프라가 실행 중이고, 안전하며, 확장 가능한지 확인하세요.
 * 개발자가 커뮤니케이션 채널 \(IRC, Mailing List 등\)에 참여하고 모니터링할 수 있는지 확인하세요. 
 
-그리고, 오픈소스 프로젝트를 런칭합니다. 소스 코드를 저장소에 릴리즈하세요. 
+그리고, 오픈소스 프로젝트를 런칭합니다. 소스 코드 저장소를 Public하게 공개하세요. 
 
-이제, 오픈소스 개발 모델을 따라 프로젝트를 운영합니다. 
+## 기여 받기
 
-## Repository 생성과 코드 릴리즈
+프로젝트를 공개하면 이제 외부 기여자로부터의 기여를 수락해야 합니다. 
 
-모든 준비와 검토 및 승인 단계를 마친 후에는 repository를 생성합니다. \(haksung : sk github repository를 사용할 수 있도록 추가 안내 필요\) 
+프로젝트를 처음 공개했을 때에는 대부분의 기여자가 SK텔레콤 구성원일 것입니다. 하지만, 프로젝트의 성공을 가늠하는 한 가지 척도는 외부 기여자의 증가입니다. 외부 기여자가 프로젝트에 참여할 수 있도록 최대한 지원하는 것이 중요합니다.  기여를 수락하기 위해 고려해야 할 사항은 다음 페이지를 참고하세요. 
 
-그리고, 오픈소스 프로젝트를 공개합니다. 소스 코드를 repository에 릴리즈하세요. 
-
-이제, 오픈소스 개발 모델을 따라 프로젝트를 운영합니다. 
+{% page-ref page="accept/" %}
 
 ## 마케팅
 
@@ -36,5 +37,6 @@ OSPO의 승인을 받은 후에는 아래 사항을 확인하며 공개와 홍�
 이 페이지는 다음 문서를 참고하였습니다. 
 
 * [https://opensource.google/docs/releasing/publishing/](https://opensource.google/docs/releasing/publishing/)
+* [https://verizonmedia.github.io/oss-guide/docs/publishing/release.html](https://verizonmedia.github.io/oss-guide/docs/publishing/release.html)
 {% endhint %}
 

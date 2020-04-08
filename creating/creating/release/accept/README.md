@@ -6,6 +6,9 @@
 
 다음은 외부로부터의 기여를 수락할때 고려해야 할 사항입니다. 
 
+* CONTRIBUTING 파일에 기여를 원하는 유형을 설명하세요 \(버그 수정, 새로운 기능, 문서 번역 등\)
+* PULL\_REQUEST\_TEMPLATE.md 파일을 제공하여 기여자가 필수 정보를 제출하게 하세요. 
+
 ## CLA \(Contribution License Agreement\)
 
 \(haksung : CLA를 사용할지, 어떤 CLA를 사용할지에 대해 내부 논의 필요\)
@@ -14,7 +17,7 @@
 
 {% page-ref page="../prepare/cla.md" %}
 
-## AUTHORS 파
+## AUTHORS 파일 
 
 오픈소스 프로젝트를 처음 릴리즈할때 모든 소스 파일의 헤더에 저작권 표시를 해야 합니다. \(예: "Copyright SK Telecom Co., Ltd." - [저작권 및 라이선스 표기](https://opensource-skt.gitbook.io/guide/creating/creating/release/prepare/mark) 참고\) 이렇게 SK텔레콤이 관리하는 오픈소스 프로젝트에 새로운 파일을 추가할때에도 "SK Telecom Co., Ltd."로 저작권을 표시합니다. 
 
@@ -27,6 +30,4 @@
 {% hint style="success" %}
 이 페이지는 다음 문서를 참고하였습니다. : [https://opensource.google/docs/releasing/contributions/](https://opensource.google/docs/releasing/contributions/)
 {% endhint %}
-
-
 
