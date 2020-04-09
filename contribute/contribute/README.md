@@ -16,13 +16,7 @@ SK텔레콤은 구성원이 패치 제공 등의 방법으로 외부 오픈소�
 
 {% page-ref page="prepare/" %}
 
-## 기본 규칙
-
-SK텔레콤 구성원이 외부 오픈소스 프로젝트에 기여할 때 준수해야 할 기본 규칙이 있습니다. 
-
-\(haksung : 이 부분은 회사 상황에 맞게 개선할 필요 있음\)
-
-## 오픈소스에 기여하기
+## 기여 절차와 방
 
 이제 기여 방법과 절차에 대해 세부적으로 알아보겠습니다. 
 
@@ -35,6 +29,4 @@ SK텔레콤 구성원이 외부 오픈소스 프로젝트에 기여할 때 준�
 * [https://opensource.guide/how-to-contribute/](https://opensource.guide/how-to-contribute/)
 * [https://opensource.google/docs/patching/](https://opensource.google/docs/patching/)
 {% endhint %}
-
-
 
