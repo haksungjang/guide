@@ -10,7 +10,7 @@ _**"If software is eating the world, open source is eating the software world."*
 
 SK텔레콤은 대부분의 서비스에서 이미 수많은 오픈소스를 사용하고 있습니다. 이에 그치지 않고 SK텔레콤은 다수의 오픈소스 프로젝트에 기여하고, 또 주요 소프트웨어를 오픈소스로 공개하고 있습니다. 이는 오픈소스가 소프트웨어 개발 문화를 혁신하는 훌륭한 도구임을 분명히 인식하고, 오픈소스 커뮤니티에 적극 참여하였을 때 오픈소스로부터 최대의 가치를 창출할 수 있다는 믿음 때문입니다. 
 
-SK텔레콤 OSPO \(Open Source Program Office, 2020년 04월 기준 AIX센터 AIX제품혁신담당, ospo@sktelecom.com\) \(haksung: ospo 전용 이메일 준비 필요\)는 구성원들이 올바르게 오픈소스를 사용하고, 기여할 뿐만 아니라 SK텔레콤의 소프트웨어를 오픈소스로 공개하기 위한 가이드를 제공합니다. 
+SK텔레콤 OSPO \(Open Source Program Office, 2020년 04월 기준 AIX센터 AIX제품혁신담당\)는 구성원들이 올바르게 오픈소스를 사용하고, 기여할 뿐만 아니라 SK텔레콤의 소프트웨어를 오픈소스로 공개하기 위한 가이드를 제공합니다. 
 
 ## Contents
 
