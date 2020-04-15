@@ -39,6 +39,5 @@
 
 ## USING <a id="use"></a>
 
-* [오픈소스 사용하기](undefined/README.md)
-  * [법적 측면](undefined/meaning.md)
+* [오픈소스 사용하기 \(작성 중\)](undefined.md)
 
