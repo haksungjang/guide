@@ -40,5 +40,5 @@
 ## USING <a id="use"></a>
 
 * [오픈소스 사용하기](undefined/README.md)
-  * [오픈소스란?](undefined/meaning.md)
+  * [법적 측면](undefined/meaning.md)
 
