@@ -28,7 +28,7 @@ Copyleft 라이선스 유형으로 분류할 수 있는 오픈소스 라이선�
 
 이와 같이 소스 코드 공개 의무를 요구하는 Copyleft 라이선스 하의 오픈소스를 포함하는 소프트웨어를 배포할 경우, 사용자에게 소스 코드를 직접 제공하거나, 사용자가 요청시 소스 코드를 제공하겠다는 서명 약정서를 제공해야 합니다. 이에 대한 세부 절차 및 방법은 다음 가이드를 참고하세요. 
 
-{% page-ref page="../undefined-1.md" %}
+{% page-ref page="../compliance.md" %}
 
 ## Weak Copyleft 라이선스 유형 
 
@@ -97,7 +97,7 @@ Permissive 라이선스로 분류할 수 있는 오픈소스 라이선스는 다
 
 세부 절차는 다음 가이드를 참고하세요. 
 
-{% page-ref page="../undefined-1.md" %}
+{% page-ref page="../compliance.md" %}
 
 ## Public Domain 유형
 
