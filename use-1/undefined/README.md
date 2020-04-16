@@ -26,6 +26,10 @@ Copyleft 라이선스 유형으로 분류할 수 있는 오픈소스 라이선�
 * [QPL](http://opensource.org/licenses/qtpl.php)
 * [Sleepycat License](http://opensource.org/licenses/sleepycat.php)
 
+이와 같이 소스 코드 공개 의무를 요구하는 Copyleft 라이선스 하의 오픈소스를 포함하는 소프트웨어를 배포할 경우, 사용자에게 소스 코드를 직접 제공하거나, 사용자가 요청시 소스 코드를 제공하겠다는 서명 약정서를 제공해야 합니다. 이에 대한 세부 절차 및 방법은 다음 가이드를 참고하세요. 
+
+{% page-ref page="../undefined-1.md" %}
+
 ## Weak Copyleft 라이선스 유형 
 
 Weak copyleft 라이선스 유형은 Copyleft 라이선스 유형과 동일한 의무사항 준수를 요구하지만 한 가지 중요한 예외를 갖고 있습니다. Weak Copyleft 라이선스 유형의 라이브러리를 사용하여 소프트웨어를 배포할 경우, 해당 라이브러리의 소스 코드만 공개하면 됩니다 \(단, 해당 라이브러리의 수정사항은 공개 범위에 포함됩니다.\). 즉, GPL 등의 Copyleft 라이선스 유형과는 달리 Weak Coplyeft 라이선스 유형의 라이브러리를 사용하는 다른 소프트웨어는 동일한 라이선스로 소스 코드를 공개해야 할 의무가 없습니다. 
@@ -91,11 +95,9 @@ Permissive 라이선스로 분류할 수 있는 오픈소스 라이선스는 다
 
 이와 같이 고지 의무를 요구하는 Permissive 라이선스 하의 오픈소스를 포함하는 소프트웨어를 배포할 경우, "저작권 표시", "라이선스 고지" 등의 의무를 준수해야 합니다. 예를 들어, SK텔레콤이 배포하는 모바일 애플리케이션은 요구되는 고지 사항을 "About" 페이지를 통해 제공할 수 있습니다. 
 
-세부 절차는 다음 가이드를 참고하세요. \(haksung : 회사 정책에 맞게 가이드 추가 작성 필요 / 참고 : [https://verizonmedia.github.io/oss-guide/docs/launching/mobile.html](https://verizonmedia.github.io/oss-guide/docs/launching/mobile.html)\)
+세부 절차는 다음 가이드를 참고하세요. 
 
-1. 모바일 애플리케이션에 오픈소스 사용 시 의무 사항 준수 방안 
-2. 임베디드 소프트웨어를 포함하는 제품에 오픈소스 사용 시 의무 사항 준수 방안
-3. 서버 프로그램에 오픈소스 사용 시 의무 사항 준수 방안
+{% page-ref page="../undefined-1.md" %}
 
 ## Public Domain 유형
 
