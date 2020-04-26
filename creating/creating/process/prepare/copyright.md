@@ -29,7 +29,7 @@ SPDX-FileCopyrightText: © 2020 SK TELECOM CO., LTD. <{$project-website-url}>
 
 ### 라이선스 고지
 
-각 소스 코드 파일마다 라이선스가 무엇인지 알리는 것도 매우 중요합니다. 라이선스는 혼란을 줄이기 위해 Linux Foudnation의 [SPDX](https://spdx.org/) 프로젝트에서 제공하는 [SPDX ID를](https://spdx.org/ids) 사용하여 표시합니다. SPDX ID를 사용하는 방법은 간단합니다. 
+각 소스 코드 파일마다 라이선스가 무엇인지 알리는 것도 매우 중요합니다. 라이선스는 혼란을 줄이기 위해 Linux Foundation의 [SPDX](https://spdx.org/) 프로젝트에서 제공하는 [SPDX ID를](https://spdx.org/ids) 사용하여 표시합니다. SPDX ID를 사용하는 방법은 간단합니다. 
 
 먼저 적용하고자 하는 오픈소스 라이선스의 SPDX Identifier가 무엇인지 [SPDX License List](https://spdx.org/licenses/) 페이지에서 확인합니다. 예를 들어, Apache License version 2의 SPDX Identifier는 Apache-2.0입니다.
 

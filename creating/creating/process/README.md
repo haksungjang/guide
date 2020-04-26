@@ -20,8 +20,8 @@ description: Releasing new open source projects
    5. LICENSE 파일 포함
    6. [소스 파일 헤더](https://opensource-skt.gitbook.io/guide/creating/creating/release/prepare#6)에 저작권과 라이선스 표시
    7. [CONTRIBUTING](https://opensource-skt.gitbook.io/guide/creating/creating/release/prepare#7-contributing) 파일 포함
-   8. CLA 파일 포
-   9.  Code of Conduct 파일 포
+   8. CLA 파일 포함 
+   9.  Code of Conduct 파일 포함 
 4. [보안 취약점](https://opensource-skt.gitbook.io/guide/creating/creating/process/prepare#undefined-3)을 점검하세요.
 5. [암호화 컴플라이언스](https://opensource-skt.gitbook.io/guide/creating/creating/process/prepare#cryptography-compliance)를 확인하세요.
 6. [커뮤니케이션 채널](https://opensource-skt.gitbook.io/guide/creating/creating/process/prepare#undefined-4)을 준비하세요.

@@ -64,7 +64,7 @@ By making a contribution to this project, I certify that:
 
 한 예로, Node.js 커뮤니트는 CLA를 사용하다가 [DCO](https://github.com/nodejs/node/blob/master/CONTRIBUTING.md)로 [변경](https://nodejs.org/en/blog/uncategorized/notes-from-the-road/#easier-contribution)하였습니다. 
 
-GitHub Repository에서 DCO를 자동화하는 간다한 방법은 Bot을 이용하는겁니다.  : [Probot](https://github.com/probot/dco)
+GitHub Repository에서 DCO를 자동화하는 간단한 방법은 Bot을 이용하는겁니다.  : [Probot](https://github.com/probot/dco)
 
 ## Apache Individual CLA
 

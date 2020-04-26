@@ -88,7 +88,7 @@ Pull Request가 처음이라면 [Make a Pull Request](http://makeapullrequest.co
 {% endhint %}
 
 {% hint style="warning" %}
-참고로, Kubernates는 다음과 같은 Github workflow에 대한 설명 문서를 제공합니다.
+참고로, Kubernetes는 다음과 같은 Github workflow에 대한 설명 문서를 제공합니다.
 
 * [github\_workflow.md](https://github.com/kubernetes/community/blob/master/contributors/guide/github-workflow.md) : GitHub에서 기여하기 위한 절차 설명
 {% endhint %}

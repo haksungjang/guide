@@ -147,12 +147,12 @@ $ find <path-to-source-dir> -type f | egrep '\.(py|sh)' | while read f; do echo 
 
 ## 암호화 컴플라이언스 \(Cryptography Compliance\) 
 
-오픈소스로 공개하는 프로젝트에 암화화 \(cryptographic\) 관련 소프트웨어가 포함된다면 수출 규제 \(Export Control\) 준수팀에 문의할 필요가 있습니다. 단, 프로젝트가 인증\(authentication\)이나 디지털 서명\(digital signature\) 관련 기능만 제공한다면 문의하지 않아도 됩니다. 
+오픈소스로 공개하는 프로젝트에 암호화 \(cryptographic\) 관련 소프트웨어가 포함된다면 수출 규제 \(Export Control\) 준수팀에 문의할 필요가 있습니다. 단, 프로젝트가 인증\(authentication\)이나 디지털 서명\(digital signature\) 관련 기능만 제공한다면 문의하지 않아도 됩니다. 
 
 그러나, 다음과 같은 데이터 암호화\(data encryption\)를 수행하거나 사용한다면 수출 규제 준수팀에 이를 알리고 적절한 조치를 취하여야 합니다. 
 
 * 암호화 라이브러리 \(crypto library\) 제공
-* https, OpenSSL, OpenVPN 이나 기타 암호화 프로토콜 \(encryption protocal\)을 이용하여 데이터 암호화 수행
+* https, OpenSSL, OpenVPN 이나 기타 암호화 프로토콜 \(encryption protocol\)을 이용하여 데이터 암호화 수행
 
 수출 규제 준수팀에 이를 알릴 때에는 다음 정보를 함께 제공합니다. 
 
