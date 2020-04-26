@@ -29,9 +29,9 @@ AUTHORS 파일과 소스 코드 파일에 저작권 정보 \(SK TELECOM CO., LTD
 대개의 프로젝트는 CONTRIBUTING 또는 README 파일로 이러한 문서를 제공합니다. 
 
 {% hint style="warning" %}
-예를 들어, Kubernates는 기여자를 위한 자세한 가이드를 제공합니다. 
+예를 들어, Kubernetes는 기여자를 위한 자세한 가이드를 제공합니다. 
 
-* [contributing.md](https://github.com/kubernetes/community/blob/master/contributors/guide/contributing.md) : Kubernates에 기여하기 위한 가이드
+* [contributing.md](https://github.com/kubernetes/community/blob/master/contributors/guide/contributing.md) : Kubernetes에 기여하기 위한 가이드
 {% endhint %}
 
 문서에서 요구하는 사항을 잘 준수할수록 당신의 기여가 수락될 가능성이 커집니다. 
