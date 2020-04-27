@@ -117,7 +117,7 @@ Public Domain과 같이 아무런 제한 없이 무료로 사용할 수 있는 �
 
 ### AGPL \(Affero GPL\)과 SSPL
 
-AGPL \(GNU Affero General Public License\) 또는 SSPL \(Server Side Public Licese\)에 따라 공개된 오픈소스는 SK텔레콤의 제품에 사용할 수 없습니다. 자세한 사항은 다음 페이지를 참고하세요. 
+AGPL \(GNU Affero General Public License\) 또는 SSPL \(Server Side Public License\)에 따라 공개된 오픈소스는 SK텔레콤의 제품에 사용할 수 없습니다. 자세한 사항은 다음 페이지를 참고하세요. 
 
 {% page-ref page="agpl.md" %}
 
