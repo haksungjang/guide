@@ -19,9 +19,7 @@
     * [기여 유형](contribute/contribute/prepare/type.md)
     * [좋은 기여자](contribute/contribute/prepare/good.md)
     * [프로젝트 확인 방법](contribute/contribute/prepare/validate.md)
-  * [기여 제출](contribute/contribute/submit/README.md)
-    * [커뮤니케이션 방법](contribute/contribute/submit/communication.md)
-    * [Pull Request](contribute/contribute/submit/pull-request.md)
+  * [기여 제출 세부](contribute/contribute/submit.md)
 
 ## CREATING
 
