@@ -122,14 +122,14 @@
       <td style="text-align:left">&#xCEE4;&#xBBA4;&#xB2C8;&#xD2F0;&#xC758; &#xACB0;&#xC815;&#xC744; &#xC874;&#xC911;&#xD558;&#xC138;&#xC694;.</td>
       <td
       style="text-align:left">
-        <p>&#xB2F9;&#xC2E0;&#xC758; &#xC544;&#xC774;&#xB514;&#xC5B4;&#xAC00; &#xCEE4;&#xBBA4;&#xB2C8;&#xD2F0;&#xC758;
+        <p>&#xC6B0;&#xB9AC;&#xC758; &#xC544;&#xC774;&#xB514;&#xC5B4;&#xAC00; &#xCEE4;&#xBBA4;&#xB2C8;&#xD2F0;&#xC758;
           &#xC6B0;&#xC120;&#xC21C;&#xC704;&#xB098; &#xBE44;&#xC804;&#xACFC; &#xB2E4;&#xB97C;
           &#xC218; &#xC788;&#xC2B5;&#xB2C8;&#xB2E4;. &#xCEE4;&#xBBA4;&#xB2C8;&#xD2F0;&#xC5D0;&#xC11C;&#xB294;
-          &#xB2F9;&#xC2E0;&#xC758; &#xC544;&#xC774;&#xB514;&#xC5B4;&#xB97C; &#xB530;&#xB974;&#xC9C0;
+          &#xC6B0;&#xB9AC;&#xC758; &#xC544;&#xC774;&#xB514;&#xC5B4;&#xB97C; &#xB530;&#xB974;&#xC9C0;
           &#xC54A;&#xAE30;&#xB85C; &#xACB0;&#xC815;&#xD560; &#xC218; &#xC788;&#xC2B5;&#xB2C8;&#xB2E4;.
-          &#xB2F9;&#xC2E0;&#xC740; &#xC774;&#xC5D0; &#xB300;&#xD574; &#xD0C0;&#xD611;&#xC810;&#xC744;
+          &#xC6B0;&#xB9AC;&#xB294; &#xC774;&#xC5D0; &#xB300;&#xD574; &#xD0C0;&#xD611;&#xC810;&#xC744;
           &#xCC3E;&#xAC70;&#xB098;, &#xACB0;&#xCF54; &#xB3D9;&#xC758;&#xD560; &#xC218;
-          &#xC5C6;&#xB2E4;&#xBA74; fork &#xD558;&#xC5EC; &#xB2F9;&#xC2E0; &#xC790;&#xC2E0;&#xC758;
+          &#xC5C6;&#xB2E4;&#xBA74; fork &#xD558;&#xC5EC; &#xC790;&#xC2E0;&#xC758;
           &#xD504;&#xB85C;&#xC81D;&#xD2B8;&#xB97C; &#xC0C8;&#xB86D;&#xAC8C; &#xC2DC;&#xC791;&#xD558;&#xB294;
           &#xAC78; &#xACE0;&#xB824;&#xD560; &#xC218; &#xC788;&#xC2B5;&#xB2C8;&#xB2E4;.</p>
         <p></p>
@@ -193,9 +193,9 @@ Issue 또는 Pull Request를 열기 전에 프로젝트가 제공하는 문서 \
 {% hint style="warning" %}
 Issue에 대한 커뮤니케이션 Tip 
 
-1. 당신이 다루고자 하는 오픈된 Issue가 있다면, 먼저 comment를 남겨서 다른 사람들이 중복으로 작업하지 않게 하세요. 
+1. 다루고자 하는 오픈된 Issue가 있다면, 먼저 comment를 남겨서 다른 사람들이 중복으로 작업하지 않게 하세요. 
 2. 오래전에 오픈된 Issue라면, 이미 해결된 것일 수 있습니다. 작업을 시작하기 전에 comment로 해결이 된 것은 아닌지 확인하세요. 
-3. 당신이 Issue를 오픈했지만, 나중에 스스로 답을 알아낸 경우, 해당 Issue에 대한 답을 다른 사람도 알 수 있도록 comment를 작성하고 이슈를 close 하세요. 이렇게 문서화하는 것조차도 프로젝트에 기여하는 것입니다. 
+3. Issue를 오픈했지만, 나중에 스스로 답을 알아낸 경우, 해당 Issue에 대한 답을 다른 사람도 알 수 있도록 comment를 작성하고 이슈를 close 하세요. 이렇게 문서화하는 것조차도 프로젝트에 기여하는 것입니다. 
 {% endhint %}
 
 ## Pull Request
@@ -228,14 +228,13 @@ GitHub에 있는 프로젝트라면 Pull Request를 제출 시 다음 사항을 
       <td style="text-align:left">
         <p>Repository&#xB97C; <a href="https://guides.github.com/activities/forking/">Fork</a>&#xD558;&#xACE0;
           Local PC&#xC5D0; &#xBCF5;&#xC81C;(Clone)&#xD569;&#xB2C8;&#xB2E4;. &#xC774;&#xB85C;&#xC368;
-          &#xB2F9;&#xC2E0;&#xC758; Local PC&#xAC00; Original &quot;Upstream&quot;
-          repository&#xC640; &#xC6D0;&#xACA9;&#xC73C;&#xB85C; &#xC5F0;&#xACB0;&#xB429;&#xB2C8;&#xB2E4;.</p>
+          Local PC&#xAC00; Original &quot;Upstream&quot; repository&#xC640; &#xC6D0;&#xACA9;&#xC73C;&#xB85C;
+          &#xC5F0;&#xACB0;&#xB429;&#xB2C8;&#xB2E4;.</p>
         <p>&quot;Upstream&quot;&#xC758; &#xBCC0;&#xACBD; &#xC0AC;&#xD56D;&#xC744;
           &#xC218;&#xC2DC;&#xB85C; &#xB2F9;&#xACA8;&#xC640;&#xC11C; (Pull) &#xD56D;&#xC0C1;
           &#xCD5C;&#xC2E0; &#xC0C1;&#xD0DC;&#xB97C; &#xC720;&#xC9C0;&#xD569;&#xB2C8;&#xB2E4;.
-          &#xC774;&#xB294; &#xB098;&#xC911;&#xC5D0; &#xB2F9;&#xC2E0;&#xC758; &#xBCC0;&#xACBD;
-          &#xC0AC;&#xD56D;&#xC744; Merge &#xD560; &#xB54C; Conflict &#xB418;&#xB294;
-          &#xAC78; &#xC904;&#xC5EC;&#xC90D;&#xB2C8;&#xB2E4;.</p>
+          &#xC774;&#xB294; &#xB098;&#xC911;&#xC5D0; &#xBCC0;&#xACBD; &#xC0AC;&#xD56D;&#xC744;
+          Merge &#xD560; &#xB54C; Conflict &#xB418;&#xB294; &#xAC78; &#xC904;&#xC5EC;&#xC90D;&#xB2C8;&#xB2E4;.</p>
         <p>&#xC790;&#xC138;&#xD55C; &#xC0AC;&#xD56D;&#xC740; &#xB2E4;&#xC74C; &#xC548;&#xB0B4;&#xB97C;
           &#xCC38;&#xACE0;&#xD558;&#xC138;&#xC694;. &quot;<a href="https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/syncing-a-fork">Syncing a fork</a>&quot;</p>
       </td>
@@ -255,9 +254,8 @@ GitHub에 있는 프로젝트라면 Pull Request를 제출 시 다음 사항을 
     </tr>
     <tr>
       <td style="text-align:left">&#xC804;&#xD6C4; &#xC2A4;&#xB0C5;&#xC0F7; &#xCD94;&#xAC00;</td>
-      <td style="text-align:left">&#xB2F9;&#xC2E0;&#xC758; &#xC218;&#xC815; &#xC0AC;&#xD56D;&#xC774; HTML/CSS&#xB97C;
-        &#xBCC0;&#xACBD;&#xD558;&#xC600;&#xB2E4;&#xBA74;, Pull Request&#xC5D0;
-        &#xC804;&#xD6C4; &#xC2A4;&#xB0C5;&#xC0F7; &#xC774;&#xBBF8;&#xC9C0;&#xB97C;
+      <td style="text-align:left">&#xC218;&#xC815; &#xC0AC;&#xD56D;&#xC774; HTML/CSS&#xB97C; &#xBCC0;&#xACBD;&#xD558;&#xC600;&#xB2E4;&#xBA74;,
+        Pull Request&#xC5D0; &#xC804;&#xD6C4; &#xC2A4;&#xB0C5;&#xC0F7; &#xC774;&#xBBF8;&#xC9C0;&#xB97C;
         &#xCD94;&#xAC00;&#xD558;&#xC138;&#xC694;.</td>
     </tr>
     <tr>
@@ -310,13 +308,13 @@ Feedback은 보통 다음 네 가지 중 하나에 해당합니다.
 
 ### 2\) 수정을 요청한다?
 
-아이디어에 대한 설명이나 코드를 수정하라는 요청을 받는 것은 일반적입니다. 이렇게 누군가 수정을 요청했다면 바로 응답하세요. 그는 자기 시간을 내서 당신의 기여를 검토했습니다. 
+아이디어에 대한 설명이나 코드를 수정하라는 요청을 받는 것은 일반적입니다. 이렇게 누군가 수정을 요청했다면 바로 응답하세요. 그는 자기 시간을 내서 우리 기여를 검토했습니다. 
 
 PR을 오픈한 상태로 응답하지 않고 남겨두는건 결례입니다. 더 이상 문제를 해결할 여건이 아닌 경우라면, Maintainer에게 더 진행할 수 없다고 알리세요. 그렇게 PR을 Close 하거나 다른 사람이 인수하여 추가로 진행할 수도 있습니다. 
 
 ### 3\) 거절됐다?
 
-당신의 기여는 결국 수락될 수도 있고, 수락되지 않을 수도 있습니다. 수락되지 않은 이유가 잘 이해되지 않을 경우, Maintainer에게 설명을 요청하는 것도 합리적입니다. 그러나 이것이 그들의 결정임을 존중해야 합니다. 논쟁하거나 적대적으로 행동하지 마세요. 끝까지 이견이 조율되지 않으면, 당신은 언제든지 Fork 하여 자신의 프로젝트에 작업할 수 있습니다. 
+우리 기여는 결국 수락될 수도 있고, 수락되지 않을 수도 있습니다. 수락되지 않은 이유가 잘 이해되지 않을 경우, Maintainer에게 설명을 요청하는 것도 합리적입니다. 그러나 이것이 그들의 결정임을 존중해야 합니다. 논쟁하거나 적대적으로 행동하지 마세요. 끝까지 이견이 조율되지 않으면, 언제든지 Fork 하여 자신의 프로젝트에 작업할 수 있습니다. 
 
 {% hint style="warning" %}
 코드가 승인되기까지 여러 차례의 반복적인 수정 과정을 거쳐야 할 수도 있으며, 때에 따라서는 거부될 수도 있습니다. 이때는 낙심하거나 포기하기보다는 거부된 이유에 대해 자세히 알아보고, 다음 기여가 향상되는 기회로 삼는 것이 좋습니다.
