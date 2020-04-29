@@ -282,13 +282,8 @@ GitHub에 있는 프로젝트라면 Pull Request를 제출 시 다음 사항을 
     </tr>
   </tbody>
 </table>{% hint style="warning" %}
-Pull Request가 처음이라면 [Make a Pull Request](http://makeapullrequest.com/)\(비디오 강의\)를 참고하세요.  또한, [First Contributions](https://github.com/Roshanjossey/first-contributions) 에서 Pull Request 만드는 것을 연습할 수 있습니다. 
-{% endhint %}
-
-{% hint style="warning" %}
-참고로, Kubernetes는 다음과 같은 Github workflow에 대한 설명 문서를 제공합니다.
-
-* [github\_workflow.md](https://github.com/kubernetes/community/blob/master/contributors/guide/github-workflow.md) : GitHub에서 기여하기 위한 절차 설명
+* Pull Request가 처음이라면 [Make a Pull Request](http://makeapullrequest.com/)\(비디오 강의\)를 참고하세요.  또한, [First Contributions](https://github.com/Roshanjossey/first-contributions) 에서 Pull Request 만드는 것을 연습할 수 있습니다. 
+* 참고로, Kubernetes는 다음과 같은 Github workflow에 대한 설명 문서를 제공합니다. : [github\_workflow.md](https://github.com/kubernetes/community/blob/master/contributors/guide/github-workflow.md)
 {% endhint %}
 
 ## Feedback 받기
