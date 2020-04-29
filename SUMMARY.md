@@ -26,7 +26,6 @@
 * [오픈소스 공개하기](creating/creating/README.md)
   * [공개 목적](creating/creating/why.md)
   * [공개할 코드 준비](creating/creating/prepare/README.md)
-    * [브랜딩](creating/creating/prepare/brand.md)
     * [저작권 및 라이선스 표기](creating/creating/prepare/copyright.md)
     * [CONTRIBUTING](creating/creating/prepare/contributing.md)
     * [CLA와 DCO](creating/creating/prepare/cla.md)
