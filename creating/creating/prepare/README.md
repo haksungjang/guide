@@ -14,7 +14,7 @@
 
 그렇다고 코드가 완벽해야 한다는 건 아닙니다. 코드를 완벽하게 준비하려고 한다면 아마 시작할 수도 없을 것입니다. 주어진 환경에서 최선의 수준으로 준비하여 공개하세요. 커뮤니티가 활성화되면 외부 기여자들이 코드를 개선하는 데 참여할 것입니다. 대신, 공개하려는 코드에 회사의 영업 비밀이나 문제를 일으킬만한 불필요한 주석이 포함되지 않도록 확인하세요. 
 
-## 2. 3rd party 코드는 별도 디렉토리에 모으세요. 
+## 3. 3rd party 코드는 별도 디렉토리에 모으세요. 
 
 프로젝트에 3rd party 코드를 포함해야 하는 경우라면, 즉, SK텔레콤이 저작권을 갖고 있지 않은 코드를 프로젝트에 포함해야 한다면 먼저 SK텔레콤이 배포할 수 있는 권한이 있는지 확인하세요. 이미 오픈소스 라이선스가 적용된 코드라면 라이선스 의무를 준수하는 조건으로 배포할 수 있습니다. 배포할 수 있는 권한 확인에 대한 도움이 필요하다면 T-DE &gt; OSP \([https://tde.sktelecom.com/pms/projects/OSP/issues](https://tde.sktelecom.com/pms/projects/OSP/issues)\)에 새 이슈를 생성하여 문의하세요. 
 
@@ -37,7 +37,7 @@ SK텔레콤이 배포할 수 있는 3rd party 코드인 경우, 기존 코드와
 
 프로젝트가 Dependency를 다운로드 및 사용하기 위한 Package Manager를 사용한다면, Dependency 분석\(haksung : dependency 분석 방법 추가 필요\)등의 방법을 수행하여 프로젝트의 Repository에 3rd party 코드가 포함되지 않게 합니다. 
 
-## 3. 주석을 정리하세요. 
+## 4. 주석을 정리하세요. 
 
 * \(굳이 외부에 공개할 필요가 없는\) SK텔레콤 구성원의 이름과 이메일 주소를 삭제하세요. 
 * 내부 정보를 삭제하세요. \(내부 코드 파일 이름 / 경로, 내부 호스트 / IP정보 등\)
@@ -62,7 +62,7 @@ $ find <path-to-source-dir> -type f | egrep '\.(c|cc|h|cpp|go|java|kt|m|mm|swift
 $ find <path-to-source-dir> -type f | egrep '\.(py|sh)' | while read f; do echo "------------ $f ------------------"; grep -o "#.*" "$f"; done
 ```
 
-## 4. README 파일을 작성하세요. 
+## 5. README 파일을 작성하세요. 
 
 우리가 공개한 오픈소스를 많은 사용자들이 사용하기를 원하나요? 그렇다면 사람들이 쉽게 시작할 수 있도록 README 파일을 제공하세요. README 파일은 새로운 사람들에게 프로젝트에 대해 설명하는 가장 중요한 문서입니다. 
 
@@ -80,20 +80,20 @@ README에서는 다음 질문에 답할 수 있는 내용을 포함해야 합니
 * README 작성 가이드 참고 : [Make a README](https://www.makeareadme.com/)
 {% endhint %}
 
-## 5. 라이선스 파일을 포함하세요.
+## 6. 라이선스 파일을 포함하세요.
 
 라이선스 사본을 담고 있는 LICENSE라는 이름의 텍스트 파일을 최상위 디렉토리에 포함합니다. 
 
 * Apache License의 경우, [공식 라이선스 사본 파일](http://www.apache.org/licenses/LICENSE-2.0.txt)을 그대로 복사해서 사용하면 됩니다.
 * 다른 라이선스를 적용하기로 한 경우, 라이선스 사본은 [SPDX License List](https://spdx.org/licenses/)에서 받을 수 있습니다. 
 
-## 6. 저작권 및 라이선스를 표시하세요. 
+## 7. 저작권 및 라이선스를 표시하세요. 
 
 소스 코드를 포함하는 모든 파일은 저작권 및 라이선스 표기를 포함해야 합니다. 이는 몇몇 파일만 복사해서 사용하려는 사용자들도 라이선스 의무를 준수하는데 도움이 됩니다. 자세한 내용은 다음 페이지를 참고하세요. 
 
 {% page-ref page="copyright.md" %}
 
-## 7. CONTRIBUTING 파일을 작성하세요. 
+## 8. CONTRIBUTING 파일을 작성하세요. 
 
 기여자들이 참고할 수 있는 "How to Contribute"에 대한 내용을 제공하는 파일입니다. CONTRIBUTING 파일이 충실하지 않다면 프로젝트로의 기여에 관심이 있던 사용자들도 열정을 잃게 됩니다. 
 
@@ -125,7 +125,7 @@ CONTRIBUTING 파일은 다음과 같은 사항을 포함합니다.
 
 CONTRIBUTING 파일도 README와 마찬가지로 프로젝트 Repository내 최상이 폴더에 위치시킵니다. 그리고, 사용자들이 접근하기 쉽도록 README 파일 내에 링크를 제공하세요. 
 
-## 8. CLA 파일을 포함하세요 \(선택사항\)
+## 9. CLA 파일을 포함하세요 \(선택사항\)
 
 일반적인 오픈소스 라이선스는 기여자로부터의 라이선싱도 명시하고 있기 때문에 추가적인 Contributor Agreement가 필요하지 않습니다. 필요에 따라 코드의 법적 문제를 방지하기 위해 기여자에게 CLA \(Contributor License Agreement\)나 DCO\(Developer Certificate of Origin\)를 요구하는 것도 고려할 수 있습니다. CLA와 DCO에 대한 세부 내용은 다음 페이지를 참고하세요. 
 
@@ -133,7 +133,7 @@ CONTRIBUTING 파일도 README와 마찬가지로 프로젝트 Repository내 최�
 
 {% page-ref page="cla.md" %}
 
-## 9. Code of Conduct 파일을 포함하세요 \(선택 사항\)
+## 10. Code of Conduct 파일을 포함하세요 \(선택 사항\)
 
 \(haksung : SK텔레콤의 Code of Conduct 작성 필요\)
 
