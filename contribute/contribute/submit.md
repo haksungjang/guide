@@ -2,7 +2,7 @@
 
 일반적인 오픈소스 프로젝트에 기여물을 제출하는 방법과 절차에 대해 설명합니다.
 
-## 효과적인 커뮤니케이션
+## 커뮤니케이션
 
 오픈소스 프로젝트에 기여하는 과정은 커뮤니케이션의 연속입니다. 효과적인 커뮤니케이션을 위해 다음 사항을 기억하세요.
 
@@ -10,7 +10,7 @@
   <thead>
     <tr>
       <th style="text-align:left">&#xAD6C;&#xBD84;</th>
-      <th style="text-align:left">&#xC124;</th>
+      <th style="text-align:left">&#xC124;&#xBA85;</th>
     </tr>
   </thead>
   <tbody>
@@ -58,7 +58,7 @@
         </td>
     </tr>
     <tr>
-      <td style="text-align:left">&#xAC04;&#xB2E8; &#xBA85;&#xB8CC;&#xD558;</td>
+      <td style="text-align:left">&#xAC04;&#xB2E8; &#xBA85;&#xB8CC;&#xD558;&#xAC8C;</td>
       <td style="text-align:left">
         <p>&#xBAA8;&#xB4E0; &#xAE30;&#xC5EC;&#xB294; &#xB204;&#xAD70;&#xAC00;&#xAC00;
           &#xAC80;&#xD1A0;&#xD574;&#xC57C; &#xD569;&#xB2C8;&#xB2E4;. &#xC5B4;&#xB5A4;
@@ -169,7 +169,7 @@
         </td>
     </tr>
   </tbody>
-</table>## 과거 자료 확인 
+</table>## 이 자료 확인 
 
 무엇이든 시작하기 전에 먼저 이전에  다뤄진 적이 있는지 과거 자료를 확인하세요. 프로젝트의 README, 이슈, 메일링 리스트를 살펴보세요. 모든 문서를 다 확인할 필요 없이, 몇 가지 키워드를 검색하면 쉽게 확인할 수 있습니다. 
 
@@ -182,9 +182,9 @@ Issue 또는 Pull Request를 열기 전에 프로젝트가 제공하는 문서 \
 
 기여를 위한 작업을 시작하기 전에 먼저 Issues를 오픈해서 커뮤니티 구성원에게 먼저 어떤 작업을 하려고 하는지 알리는 것도 좋은 방법입니다. 때에 따라 불필요한 작업을 진행하지 않도록 도움을 받을 수 있습니다. 
 
-## Issue 오픈
+## Issue 생성 
 
-일반적으로 다음 상황에서 Issue를 오픈합니다. 
+일반적으로 다음 상황에서 Issue를 생성합니다. 
 
 * 스스로 해결할 수 없는 오류 보고
 * 새로운 기능 또는 아이디어 제안
