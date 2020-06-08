@@ -1,13 +1,13 @@
 # Table of contents
 
-* [오픈소스 가이드 \(draft\)](README.md)
+* [오픈소스 가이드](README.md)
 
 ## USING <a id="use"></a>
 
 * [오픈소스 사용하기 \(작성 중\)](use/use-1/README.md)
-  * [저작권과 라이선스](use/use-1/copyright.md)
   * [오픈소스 라이선스](use/use-1/license/README.md)
     * [AGPL](use/use-1/license/agpl.md)
+  * [저작권과 라이선스](use/use-1/copyright.md)
   * [컴플라이언스 프로세스](use/use-1/compliance.md)
 
 ## CONTRIBUTING <a id="contribute"></a>
