@@ -12,7 +12,7 @@ SK텔레콤에서 작성하여 오픈소스로 공개하는 모든 소스 코드
 
 소스 코드 상단 헤더 부분에 다음 정보를 포함하는 저작권 표시를 추가하세요. 
 
-* © 기호
+* Copyright \(혹은 © 기호\)
 * 최초 작성 연도
 * 저작권 보유자 이름
   * SK텔레콤 구성원이 저자인 저작물의 저작권은 SK텔레콤이 보유합니다. 따라서, 회사 이름을 작성합니다. \(SK TELECOM CO., LTD.\)
@@ -45,7 +45,7 @@ SPDX-License-Identifier: Apache-2.0
 
 ### 저작권 / 라이선스 자동 추가 도구
 
-\(haksung : SPDX tag와 함께 추가되도록 도구 개선 후 공식 가이드 필요\)
+\(SPDX tag와 함께 추가되도록 도구 개선 후 가이드 개선 필요 : [haksung@sk.com](mailto:haksung@sk.com) \)
 
 * [addlicense](https://github.com/google/addlicense) : 소스 파일을 자동으로 인식하여 저작권/라이선스 표시를 추가합니다. 
 
@@ -64,12 +64,4 @@ autogen --no-code --no-tlc -c "SK TELECOM CO., LTD." -l apache [filename]
 ```text
 find . -type f -name \*.java -exec autogen -i --no-code --no-tlc -c "SK TELECOM CO., LTD." -l apache {} \;
 ```
-
-{% hint style="success" %}
-이 페이지는 다음 문서를 참고하였습니다. 
-
-* [https://opensource.google/docs/releasing/licenses/](https://opensource.google/docs/releasing/licenses/)
-* [https://opensource.google/docs/releasing/preparing/](https://opensource.google/docs/releasing/preparing/)
-* [https://matija.suklje.name/how-and-why-to-properly-write-copyright-statements-in-your-code](https://matija.suklje.name/how-and-why-to-properly-write-copyright-statements-in-your-code)
-{% endhint %}
 

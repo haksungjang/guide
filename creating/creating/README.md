@@ -96,7 +96,7 @@ SK텔레콤은 소프트웨어를 오픈소스로 공개 시 기본적으로 [Ap
 
 공개할 코드 준비를 위한 세부 사항은 다음 페이지를 참고하세요. 
 
-{% page-ref page="prepare/" %}
+{% page-ref page="prepare.md" %}
 
 ## 7. 보안 취약점 점검 
 

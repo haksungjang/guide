@@ -87,7 +87,7 @@ README에서는 다음 질문에 답할 수 있는 내용을 포함해야 합니
 
 소스 코드를 포함하는 모든 파일은 저작권 및 라이선스 표기를 포함해야 합니다. 이는 몇몇 파일만 복사해서 사용하려는 사용자들도 라이선스 의무를 준수하는데 도움이 됩니다. 자세한 내용은 다음 페이지를 참고하세요. 
 
-{% page-ref page="../copyright.md" %}
+{% page-ref page="copyright.md" %}
 
 ## 8. CONTRIBUTING 파일을 작성하세요. 
 
@@ -193,11 +193,5 @@ Google의 CLA 전략을 참고하는 것도 도움이 됩니다. : [https://open
 
 ## 10. Code of Conduct 파일을 포함하세요 \(선택 사항\)
 
-\(haksung : SK텔레콤의 Code of Conduct 작성 필요\)
-
-{% page-ref page="code.md" %}
-
-{% hint style="success" %}
-이 페이지는 다음 문서를 참고하였습니다. : [https://opensource.google/docs/releasing/](https://opensource.google/docs/releasing/)
-{% endhint %}
+\(작성 예정 : haksung@sk.com\) 
 

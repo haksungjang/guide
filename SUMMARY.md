@@ -20,9 +20,6 @@
 
 * [오픈소스 공개하기](creating/creating/README.md)
   * [공개 목적](creating/creating/why.md)
-  * [공개할 코드 준비](creating/creating/prepare/README.md)
-    * [CLA와 DCO](creating/creating/prepare/cla.md)
-    * [AUTHORS](creating/creating/prepare/authors.md)
-    * [Code of Conduct](creating/creating/prepare/code.md)
+  * [공개할 코드 준비](creating/creating/prepare.md)
   * [저작권 및 라이선스 표기](creating/creating/copyright.md)
 
