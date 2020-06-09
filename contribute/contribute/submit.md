@@ -328,11 +328,3 @@ PR을 오픈한 상태로 응답하지 않고 남겨두는건 결례입니다. �
 
 축하합니다! 드디어 오픈소스 기여에 성공했습니다.
 
-{% hint style="success" %}
-이 페이지는 다음 문서를 참고하였습니다. 
-
-* [https://todogroup.org/guides/participating/](https://todogroup.org/guides/participating/)
-* [https://opensource.guide/how-to-contribute/](https://opensource.guide/how-to-contribute/)
-* [https://verizonmedia.github.io/oss-guide/docs/contributing/contributing.html](https://verizonmedia.github.io/oss-guide/docs/contributing/contributing.html)
-{% endhint %}
-
