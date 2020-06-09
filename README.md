@@ -16,7 +16,7 @@ SK텔레콤 OSPO\(Open Source Program Office, 2020년 6월 기준, T3K Product S
 
 이 가이드는 다음 세가지 주제로 구성됩니다.
 
-![](.gitbook/assets/image.png)
+![](.gitbook/assets/image%20%281%29.png)
 
 ## 오픈소스 사용하기
 
