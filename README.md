@@ -4,7 +4,9 @@ description: SK텔레콤 오픈소스 가이드
 
 # 오픈소스 가이드
 
-> 오픈소스의 개방과 공유의 정신에 따라 SK텔레콤은 내부 구성원들을 위한 오픈소스 가이드를 누구나 볼 수 있도록 공개합니다. \(단, 사내 시스템 Website Link 등 일부 내용은 제외하였습니다.\)
+{% hint style="success" %}
+오픈소스의 개방과 공유의 정신에 따라 SK텔레콤은 내부 구성원들을 위한 오픈소스 가이드를 누구나 활용할 수 있도록 공개하였습니다. \(단, 사내 시스템 Website Link 등 일부 내용은 제외하였습니다.\)
+{% endhint %}
 
 _**"If software is eating the world, open source is eating the software world."**_
 
