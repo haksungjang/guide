@@ -25,7 +25,4 @@
     * [AUTHORS](creating/creating/prepare/authors.md)
     * [Code of Conduct](creating/creating/prepare/code.md)
   * [저작권 및 라이선스 표기](creating/creating/copyright.md)
-  * [커뮤니티 활성화](creating/creating/community.md)
-  * [오픈소스 측정](creating/creating/measure.md)
-  * [Checklist](creating/creating/checklist.md)
 
