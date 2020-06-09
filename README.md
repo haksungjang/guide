@@ -37,6 +37,7 @@ SK텔레콤 구성원이 개발한 소프트웨어를 오픈소스로 공개하�
 
 ## 참고 자료
 
+{% hint style="warning" %}
 이 문서는 다음 자료들을 참고하여 작성하였습니다.
 
 * TODO Guides : [https://todogroup.org/guides/](https://todogroup.org/guides/)
@@ -45,7 +46,6 @@ SK텔레콤 구성원이 개발한 소프트웨어를 오픈소스로 공개하�
 * Verizon Media Open Source Developer Guide : [https://verizonmedia.github.io/oss-guide/](https://verizonmedia.github.io/oss-guide/)
 * 오픈소스 소프트웨어 라이선스 가이드 : [https://www.olis.or.kr/license/licenseGuide.do](https://www.olis.or.kr/license/licenseGuide.do)
 
-{% hint style="warning" %}
 이 문서는 GitHub를 통해 공개하고 있으며, 누구나 수정 및 개선에 참 할 수 있습니다. : [https://github.com/opensource-skt/guide](https://github.com/opensource-skt/guide)
 {% endhint %}
 
