@@ -13,12 +13,7 @@
 ## CONTRIBUTING <a id="contribute"></a>
 
 * [오픈소스 기여하기](contribute/contribute/README.md)
-  * [기여에 앞서](contribute/contribute/prepare/README.md)
-    * [기여해야하는 이유](contribute/contribute/prepare/why.md)
-    * [거버넌스 구조](contribute/contribute/prepare/governance.md)
-    * [기여 유형](contribute/contribute/prepare/type.md)
-    * [좋은 기여자](contribute/contribute/prepare/good.md)
-    * [프로젝트 확인 방법](contribute/contribute/prepare/validate.md)
+  * [기여에 앞서](contribute/contribute/prepare.md)
   * [기여 제출 세부](contribute/contribute/submit.md)
 
 ## CREATING
