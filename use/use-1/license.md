@@ -120,7 +120,7 @@ Copyleft 라이선스 유형은 오픈소스 라이선스 중에 요구하는 �
 
 {% hint style="danger" %}
 * 대표적인 의무 사항은 이 라이선스로 배포되는 오픈소스를 제품에 포함하여 배포하려면 해당 오픈소스의 소스 코드의 공개가 필요합니다. 또한 이 오픈소스와 결합하는 소스 코드까지도 동일한 오픈소스 라이선스를 적용하여 공개해야 합니다. ‌
-* 따라서, _**Copyleft 라이선스 유형의 라이선스가 적용된 오픈소스는 SK텔레콤이 배포하는 제품에 포함하지 마세요.**_ 반드시 포함해야 하는 경우라면 T-DE &gt; OSP \(_https://tde.sktelecom.com/pms/projects/OSP/issues_\)에 새 이슈를 생성하여 포함할 수 있는 방법을 문의하세요.
+* 따라서, _**Copyleft 라이선스 유형의 라이선스가 적용된 오픈소스는 SK텔레콤이 배포하는 제품에 포함 시 주의해야 합니다. 이러한 오픈소스는 설계 단계에서부터 Build 시 자사 소프트웨어와 통합되지 않도록 하고, Runtime에도 독립된 프로세스로 동작되도록 해야 합니다.**_  
 {% endhint %}
 
 Copyleft 라이선스 유형으로 분류할 수 있는 오픈소스 라이선스는 다음과 같습니다.
@@ -204,7 +204,7 @@ Permissive 라이선스로 분류할 수 있는 오픈소스 라이선스는 다
 
 ‌세부 절차는 다음 가이드를 참고하세요. : _오픈소스 컴플라이언스_
 
-## _사용 불가 라이선스_
+## _사용 제한 라이선스_
 
 일부 오픈소스 라이선스는 SK텔레콤의 제품에 사용하기에 적합하지 않은 조건을 포함하고 있습니다.
 
@@ -249,6 +249,11 @@ Permissive 라이선스로 분류할 수 있는 오픈소스 라이선스는 다
           <li>AGPL (GNU Affero General Public License)</li>
           <li>SSPL (Server Side Public License)</li>
         </ul>
+        <p>&#xC774;&#xB7EC;&#xD55C; &#xB77C;&#xC774;&#xC120;&#xC2A4; &#xD558;&#xC758;
+          &#xC624;&#xD508;&#xC18C;&#xC2A4;&#xB97C; &#xBC18;&#xB4DC;&#xC2DC; &#xD3EC;&#xD568;&#xD574;&#xC57C;
+          &#xD558;&#xB294; &#xACBD;&#xC6B0;&#xB77C;&#xBA74; T-DE &gt; OSP (<em>https://tde.sktelecom.com/pms/projects/OSP/issues</em>)&#xC5D0;
+          &#xC0C8; &#xC774;&#xC288;&#xB97C; &#xC0DD;&#xC131;&#xD558;&#xC5EC; &#xD3EC;&#xD568;&#xD560;
+          &#xC218; &#xC788;&#xB294; &#xBC29;&#xBC95;&#xC744; &#xBB38;&#xC758;&#xD558;&#xC138;&#xC694;.</p>
         </td>
     </tr>
     <tr>
